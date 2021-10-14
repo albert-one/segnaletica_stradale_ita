@@ -1,414 +1,140 @@
-<!DOCTYPE html>
-<html class="client-nojs" lang="en" dir="ltr">
-<head>
-<meta charset="UTF-8"/>
-<title>File:Italian traffic signs - fine pista ciclabile contigua al marciapiede.svg - Wikimedia Commons</title>
-<script>document.documentElement.className="client-js";RLCONF={"wgBreakFrames":!0,"wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgRequestId":"691c5723-8cdb-4b08-880e-8c5585ff426e","wgCSPNonce":!1,"wgCanonicalNamespace":"File","wgCanonicalSpecialPageName":!1,"wgNamespaceNumber":6,"wgPageName":"File:Italian_traffic_signs_-_fine_pista_ciclabile_contigua_al_marciapiede.svg","wgTitle":"Italian traffic signs - fine pista ciclabile contigua al marciapiede.svg","wgCurRevisionId":542836966,"wgRevisionId":542836966,"wgArticleId":1353030,"wgIsArticle":!0,"wgIsRedirect":!1,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Self-published work","PD-self","Diagrams of mandatory road signs of Italy","SVG road signs in Italy","End of cyclist path signs",
-"Segregated pedestrian and cyclist path signs"],"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgRelevantPageName":"File:Italian_traffic_signs_-_fine_pista_ciclabile_contigua_al_marciapiede.svg","wgRelevantArticleId":1353030,"wgIsProbablyEditable":!0,"wgRelevantPageIsProbablyEditable":!0,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgRestrictionUpload":[],"wgMediaViewerOnClick":!0,"wgMediaViewerEnabledByDefault":!1,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en"},"wgMFDisplayWikibaseDescriptions":{"search":!0,"nearby":!0,"watchlist":!0,"tagline":!0},"wgWMESchemaEditAttemptStepOversample":!1,"wgULSCurrentAutonym":"English","wgNoticeProject":"commons","wbCopyright":{"version":"wikibase-1","messageHtml":
-"By clicking \"publish\", you agree to the \u003Ca href=\"/wiki/Commons:Copyrights\" class=\"mw-redirect\" title=\"Commons:Copyrights\"\u003Eterms of use\u003C/a\u003E, and you irrevocably agree to release your contribution under the \u003Ca rel=\"nofollow\" class=\"external text\" href=\"https://creativecommons.org/publicdomain/zero/1.0/\"\u003ECreative Commons CC0 License\u003C/a\u003E."},"wbBadgeItems":[],"wbMultiLingualStringLimit":250,"wbTaintedReferencesEnabled":!1,"wbEntityId":"M1353030","wgEditSubmitButtonLabelPublish":!0,"wbUserSpecifiedLanguages":["en"],"wgULSPosition":"personal","wgULSisCompactLinksEnabled":!0,"wbmiDefaultProperties":["P180"],"wbmiPropertyTitles":{"P180":"Items portrayed in this file"},"wbmiPropertyTypes":{"P180":"wikibase-item","P170":"wikibase-item","P2699":"url","P2093":"string","P4174":"external-id","P7482":"wikibase-item","P275":"wikibase-item","P6216":"wikibase-item","P571":"time"},"wbmiHelpUrls":{"P180":
-"https://commons.wikimedia.org/wiki/Special:MyLanguage/Commons:Depicts"},"wbmiExternalEntitySearchBaseUri":"https://www.wikidata.org/w/api.php","wbmiRepoApiUrl":"/w/api.php","wbmiSupportedDataTypes":["wikibase-item","string","quantity","time","monolingualtext","external-id","globe-coordinate","url"],"wbCurrentRevision":542836966,"wbEntity":{"type":"mediainfo","id":"M1353030","labels":{"en":{"language":"en","value":"End of bike and pedestrian lane sign"}},"descriptions":[],"statements":{"P170":[{"mainsnak":{"snaktype":"somevalue","property":"P170","hash":"d3550e860f988c6675fff913440993f58f5c40c5"},"type":"statement","qualifiers":{"P2699":[{"snaktype":"value","property":"P2699","hash":"85cd62e3337f76066cb7183353913740621c9e9b","datavalue":{"value":"https://commons.wikimedia.org/wiki/user:F_l_a_n_k_e_r","type":"string"}}],"P2093":[{"snaktype":"value","property":"P2093","hash":"877edd56df9e247f74b69f9932d147aaeb72febd","datavalue":{"value":"F l a n k e r","type":"string"}}],"P4174":[{
-"snaktype":"value","property":"P4174","hash":"712582f4c97dbec4b65aa118115889dd7d18f732","datavalue":{"value":"F l a n k e r","type":"string"}}]},"qualifiers-order":["P2699","P2093","P4174"],"id":"M1353030$B1AA04EF-8330-4400-8181-639067F92080","rank":"normal"}],"P7482":[{"mainsnak":{"snaktype":"value","property":"P7482","hash":"83568a288a8b8b4714a68e7239d8406833762864","datavalue":{"value":{"entity-type":"item","numeric-id":66458942,"id":"Q66458942"},"type":"wikibase-entityid"}},"type":"statement","id":"M1353030$B0B0604F-EFBC-4186-81AD-1C6B3E74E08C","rank":"normal"}],"P275":[{"mainsnak":{"snaktype":"value","property":"P275","hash":"c50f467f552350584a199dd3c9ceadf026c05180","datavalue":{"value":{"entity-type":"item","numeric-id":98592850,"id":"Q98592850"},"type":"wikibase-entityid"}},"type":"statement","id":"M1353030$E774B7DD-72D2-4019-9D7D-17B5FD1EB668","rank":"normal"}],"P6216":[{"mainsnak":{"snaktype":"value","property":"P6216","hash":"f88a8b9472789ca66067ed50ce20dc2650af5744",
-"datavalue":{"value":{"entity-type":"item","numeric-id":88088423,"id":"Q88088423"},"type":"wikibase-entityid"}},"type":"statement","id":"M1353030$D47D441D-A302-43D7-9FC5-B895ED308230","rank":"normal"}],"P571":[{"mainsnak":{"snaktype":"value","property":"P571","hash":"72e0f88aeb42bc9b8911cdbfe6fc76d3d7ac6667","datavalue":{"value":{"time":"+2006-11-09T00:00:00Z","timezone":0,"before":0,"after":0,"precision":11,"calendarmodel":"http://www.wikidata.org/entity/Q1985727"},"type":"time"}},"type":"statement","id":"M1353030$04D5330B-4298-4D6A-B5E1-E0F07B3DE951","rank":"normal"}]}},"wbmiMinCaptionLength":5,"wbmiMaxCaptionLength":250,"wbmiParsedMessageAnonEditWarning":
-"\u003Cp\u003EYou are not logged in and your \u003Ca href=\"https://en.wikipedia.org/wiki/IP_address\" class=\"extiw\" title=\"w:IP address\"\u003EIP address\u003C/a\u003E will be publicly visible if you make any edits. \u003Ca href=\"/wiki/Special:UserLogin\" title=\"Special:UserLogin\"\u003ELogging in\u003C/a\u003E or \u003Ca href=\"/wiki/Special:CreateAccount\" title=\"Special:CreateAccount\"\u003Ecreating an account\u003C/a\u003E will conceal your IP address and provide you with many other \u003Ca href=\"https://en.wikipedia.org/wiki/Wikipedia:Why_create_an_account%3F\" class=\"extiw\" title=\"w:Wikipedia:Why create an account?\"\u003Ebenefits\u003C/a\u003E. Please do not save test edits. If you want to experiment, please use the \u003Ca href=\"/wiki/Commons:Sandbox\" title=\"Commons:Sandbox\"\u003ESandbox\u003C/a\u003E.\n\u003C/p\u003E","wbmiProtectionMsg":null,"wgCentralAuthMobileDomain":!1};RLSTATE={"ext.gadget.Long-Image-Names-in-Categories":"ready",
-"ext.gadget.uploadWizardMobile":"ready","ext.globalCssJs.user.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","user":"ready","user.options":"loading","wikibase.common":"ready","jquery.wikibase.toolbar.styles":"ready","filepage":"ready","mediawiki.action.view.filepage":"ready","skins.vector.styles.legacy":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.pt":"ready","wikibase.mediainfo.filepage.styles":"ready","wikibase.mediainfo.statements.styles":"ready","ext.wikimediaBadges":"ready"};RLPAGEMODULES=["wikibase.entityPage.entityLoaded","wikibase.ui.entityViewInit","mediawiki.action.view.metadata","site","mediawiki.page.ready","skins.vector.legacy.js","ext.gadget.Slideshow","ext.gadget.ZoomViewer","ext.gadget.CollapsibleTemplates","ext.gadget.fastcci","ext.gadget.Stockphoto","ext.gadget.WatchlistNotice","ext.gadget.AjaxQuickDelete","ext.gadget.WikiMiniAtlas","ext.gadget.LanguageSelect",
-"ext.gadget.PictureOfTheYearEnhancements","mmv.head","mmv.bootstrap.autostart","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging","ext.wikimediaEvents","ext.wikimediaEvents.wikibase","ext.navigationTiming","ext.uls.compactlinks","ext.uls.interface","wikibase.mediainfo.filePageDisplay","ext.centralNotice.geoIP","ext.centralNotice.startUp","ext.centralauth.centralautologin"];</script>
-<script>(RLQ=window.RLQ||[]).push(function(){mw.loader.implement("user.options@1hzgi",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
-});});</script>
-<link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=ext.uls.pt%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cfilepage%7Cjquery.wikibase.toolbar.styles%7Cmediawiki.action.view.filepage%7Cskins.vector.styles.legacy%7Cwikibase.common%7Cwikibase.mediainfo.filepage.styles%7Cwikibase.mediainfo.statements.styles&amp;only=styles&amp;skin=vector"/>
-<script async="" src="/w/load.php?lang=en&amp;modules=startup&amp;only=scripts&amp;raw=1&amp;skin=vector"></script>
-<meta name="ResourceLoaderDynamicStyles" content=""/>
-<link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=ext.gadget.Long-Image-Names-in-Categories%2CuploadWizardMobile&amp;only=styles&amp;skin=vector"/>
-<link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
-<meta name="generator" content="MediaWiki 1.38.0-wmf.3"/>
-<meta name="referrer" content="origin"/>
-<meta name="referrer" content="origin-when-crossorigin"/>
-<meta name="referrer" content="origin-when-cross-origin"/>
-<meta name="format-detection" content="telephone=no"/>
-<meta property="og:image" content="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Italian_traffic_signs_-_fine_pista_ciclabile_contigua_al_marciapiede.svg/1200px-Italian_traffic_signs_-_fine_pista_ciclabile_contigua_al_marciapiede.svg.png"/>
-<meta property="og:title" content="File:Italian traffic signs - fine pista ciclabile contigua al marciapiede.svg - Wikimedia Commons"/>
-<meta property="og:type" content="website"/>
-<link rel="preconnect" href="//upload.wikimedia.org"/>
-<link rel="preconnect" href="//upload.wikimedia.org"/>
-<link rel="alternate" href="https://commons.wikimedia.org/wiki/Special:EntityData/M1353030.json" type="application/json"/>
-<link rel="alternate" href="https://commons.wikimedia.org/wiki/Special:EntityData/M1353030.php" type="application/vnd.php.serialized"/>
-<link rel="alternate" href="https://commons.wikimedia.org/wiki/Special:EntityData/M1353030.n3" type="text/n3"/>
-<link rel="alternate" href="https://commons.wikimedia.org/wiki/Special:EntityData/M1353030.ttl" type="text/turtle"/>
-<link rel="alternate" href="https://commons.wikimedia.org/wiki/Special:EntityData/M1353030.nt" type="application/n-triples"/>
-<link rel="alternate" href="https://commons.wikimedia.org/wiki/Special:EntityData/M1353030.rdf" type="application/rdf+xml"/>
-<link rel="alternate" href="https://commons.wikimedia.org/wiki/Special:EntityData/M1353030.jsonld" type="application/ld+json"/>
-<link rel="alternate" media="only screen and (max-width: 720px)" href="//commons.m.wikimedia.org/wiki/File:Italian_traffic_signs_-_fine_pista_ciclabile_contigua_al_marciapiede.svg"/>
-<link rel="alternate" type="application/x-wiki" title="Edit" href="/w/index.php?title=File:Italian_traffic_signs_-_fine_pista_ciclabile_contigua_al_marciapiede.svg&amp;action=edit"/>
-<link rel="edit" title="Edit" href="/w/index.php?title=File:Italian_traffic_signs_-_fine_pista_ciclabile_contigua_al_marciapiede.svg&amp;action=edit"/>
-<link rel="apple-touch-icon" href="/static/apple-touch/commons.png"/>
-<link rel="shortcut icon" href="/static/favicon/commons.ico"/>
-<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikimedia Commons"/>
-<link rel="EditURI" type="application/rsd+xml" href="//commons.wikimedia.org/w/api.php?action=rsd"/>
-<link rel="license" href="https://creativecommons.org/licenses/by-sa/3.0/"/>
-<link rel="canonical" href="https://commons.wikimedia.org/wiki/File:Italian_traffic_signs_-_fine_pista_ciclabile_contigua_al_marciapiede.svg"/>
-<link rel="dns-prefetch" href="//meta.wikimedia.org" />
-<link rel="dns-prefetch" href="//login.wikimedia.org"/>
-</head>
-<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-6 ns-subject mw-editable page-File_Italian_traffic_signs_-_fine_pista_ciclabile_contigua_al_marciapiede_svg rootpage-File_Italian_traffic_signs_-_fine_pista_ciclabile_contigua_al_marciapiede_svg skin-vector action-view skin-vector-legacy wb-entitypage wb-mediainfopage wb-mediainfopage-M1353030"><div id="mw-page-base" class="noprint"></div>
-<div id="mw-head-base" class="noprint"></div>
-<div id="content" class="mw-body" role="main">
-	<a id="top"></a>
-	<div id="siteNotice"><!-- CentralNotice --></div>
-	<div class="mw-indicators">
-	</div>
-	<h1 id="firstHeading" class="firstHeading" >File:Italian traffic signs - fine pista ciclabile contigua al marciapiede.svg</h1>
-	<div id="bodyContent" class="vector-body">
-		<div id="siteSub" class="noprint">From Wikimedia Commons, the free media repository</div>
-		<div id="contentSub"></div>
-		<div id="contentSub2"></div>
-		
-		<div id="jump-to-nav"></div>
-		<a class="mw-jump-link" href="#mw-head">Jump to navigation</a>
-		<a class="mw-jump-link" href="#searchInput">Jump to search</a>
-		<div id="mw-content-text" class="mw-body-content"><ul id="filetoc"><li><a href="#file">File</a></li>
-<li><a href="#filehistory">File history</a></li>
-<li><a href="#filelinks">File usage on Commons</a></li>
-<li><a href="#globalusage">File usage on other wikis</a></li>
-<li><a href="#metadata">Metadata</a></li></ul><div class="fullImageLink" id="file"><a href="https://upload.wikimedia.org/wikipedia/commons/d/d4/Italian_traffic_signs_-_fine_pista_ciclabile_contigua_al_marciapiede.svg"><img alt="File:Italian traffic signs - fine pista ciclabile contigua al marciapiede.svg" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Italian_traffic_signs_-_fine_pista_ciclabile_contigua_al_marciapiede.svg/200px-Italian_traffic_signs_-_fine_pista_ciclabile_contigua_al_marciapiede.svg.png" decoding="async" width="200" height="200" srcset="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Italian_traffic_signs_-_fine_pista_ciclabile_contigua_al_marciapiede.svg/300px-Italian_traffic_signs_-_fine_pista_ciclabile_contigua_al_marciapiede.svg.png 1.5x, https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Italian_traffic_signs_-_fine_pista_ciclabile_contigua_al_marciapiede.svg/400px-Italian_traffic_signs_-_fine_pista_ciclabile_contigua_al_marciapiede.svg.png 2x" data-file-width="200" data-file-height="200" /></a><div class="mw-filepage-resolutioninfo">Size of this PNG preview of this SVG file: <a href="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Italian_traffic_signs_-_fine_pista_ciclabile_contigua_al_marciapiede.svg/200px-Italian_traffic_signs_-_fine_pista_ciclabile_contigua_al_marciapiede.svg.png" class="mw-thumbnail-link">200 × 200 pixels</a>. <span class="mw-filepage-other-resolutions">Other resolutions: <a href="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Italian_traffic_signs_-_fine_pista_ciclabile_contigua_al_marciapiede.svg/240px-Italian_traffic_signs_-_fine_pista_ciclabile_contigua_al_marciapiede.svg.png" class="mw-thumbnail-link">240 × 240 pixels</a> | <a href="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Italian_traffic_signs_-_fine_pista_ciclabile_contigua_al_marciapiede.svg/480px-Italian_traffic_signs_-_fine_pista_ciclabile_contigua_al_marciapiede.svg.png" class="mw-thumbnail-link">480 × 480 pixels</a> | <a href="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Italian_traffic_signs_-_fine_pista_ciclabile_contigua_al_marciapiede.svg/768px-Italian_traffic_signs_-_fine_pista_ciclabile_contigua_al_marciapiede.svg.png" class="mw-thumbnail-link">768 × 768 pixels</a> | <a href="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Italian_traffic_signs_-_fine_pista_ciclabile_contigua_al_marciapiede.svg/1024px-Italian_traffic_signs_-_fine_pista_ciclabile_contigua_al_marciapiede.svg.png" class="mw-thumbnail-link">1,024 × 1,024 pixels</a> | <a href="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Italian_traffic_signs_-_fine_pista_ciclabile_contigua_al_marciapiede.svg/2048px-Italian_traffic_signs_-_fine_pista_ciclabile_contigua_al_marciapiede.svg.png" class="mw-thumbnail-link">2,048 × 2,048 pixels</a>.</span></div></div>
-<div class="fullMedia"><p><a href="https://upload.wikimedia.org/wikipedia/commons/d/d4/Italian_traffic_signs_-_fine_pista_ciclabile_contigua_al_marciapiede.svg" class="internal" title="Italian traffic signs - fine pista ciclabile contigua al marciapiede.svg">Original file</a> &#8206;<span class="fileInfo">(SVG file, nominally 200 × 200 pixels, file size: 10 KB)</span>
-</p></div><div class='wbmi-tabs-container oo-ui-layout oo-ui-panelLayout'><div id='ooui-php-1' class='wbmi-tabs oo-ui-layout oo-ui-menuLayout oo-ui-menuLayout-static oo-ui-menuLayout-top oo-ui-menuLayout-showMenu oo-ui-indexLayout' data-ooui='{"_":"OO.ui.IndexLayout","classes":["wbmi-tabs"],"expanded":false,"menuPanel":{"tag":"ooui-php-2"},"contentPanel":{"tag":"ooui-php-3"},"autoFocus":false,"tabPanels":{"wikiTextPlusCaptions":{"tag":"ooui-php-4"},"statements":{"tag":"ooui-php-5"}},"tabSelectWidget":{"tag":"ooui-php-6"}}'><div aria-hidden='false' class='oo-ui-menuLayout-menu'><div id='ooui-php-2' class='oo-ui-layout oo-ui-panelLayout oo-ui-indexLayout-tabPanel' data-ooui='{"_":"OO.ui.PanelLayout","preserveContent":false,"expanded":false}'><div role='tablist' aria-disabled='false' tabindex='0' id='ooui-php-6' class='oo-ui-selectWidget oo-ui-selectWidget-unpressed oo-ui-widget oo-ui-widget-enabled oo-ui-tabSelectWidget oo-ui-tabSelectWidget-frameless' data-ooui='{"_":"OO.ui.TabSelectWidget","framed":false,"items":[{"tag":"ooui-php-7"},{"tag":"ooui-php-8"}]}'><div aria-disabled='false' aria-selected='true' role='tab' id='ooui-php-7' class='oo-ui-widget oo-ui-widget-enabled oo-ui-optionWidget oo-ui-tabOptionWidget oo-ui-labelElement oo-ui-optionWidget-selected' data-ooui='{"_":"OO.ui.TabOptionWidget","selected":true,"label":"File information","data":"wikiTextPlusCaptions"}'><span class='oo-ui-labelElement-label'>File information</span></div><div aria-disabled='false' aria-selected='false' role='tab' id='ooui-php-8' class='oo-ui-widget oo-ui-widget-enabled oo-ui-optionWidget oo-ui-tabOptionWidget oo-ui-labelElement' data-ooui='{"_":"OO.ui.TabOptionWidget","label":"Structured data","data":"statements"}'><span class='oo-ui-labelElement-label'>Structured data</span></div></div></div></div><div class='oo-ui-menuLayout-content'><div id='ooui-php-3' class='oo-ui-layout oo-ui-panelLayout oo-ui-stackLayout oo-ui-indexLayout-stackLayout' data-ooui='{"_":"OO.ui.StackLayout","preserveContent":false,"expanded":false,"items":[{"tag":"ooui-php-4"},{"tag":"ooui-php-5"}]}'><div role='tabpanel' id='ooui-php-4' class='wbmi-tab oo-ui-layout oo-ui-panelLayout oo-ui-panelLayout-scrollable oo-ui-tabPanelLayout' data-ooui='{"_":"OO.ui.TabPanelLayout","name":"wikiTextPlusCaptions","label":"File information","scrollable":true,"expanded":false,"classes":["wbmi-tab"]}'><div class='wbmi-entityview-captionsPanel oo-ui-layout oo-ui-panelLayout oo-ui-panelLayout-framed'><h3 class='wbmi-entityview-captions-header'>Captions</h3><div class='wbmi-entityview-caption oo-ui-layout oo-ui-horizontalLayout'><label aria-disabled='false' class='wbmi-language-label oo-ui-widget oo-ui-widget-enabled oo-ui-labelElement-label oo-ui-labelElement oo-ui-labelWidget'>English</label><div lang='en' dir='ltr' class='wbmi-caption-value'>End of bike and pedestrian lane sign</div></div></div><h2 class="wbmi-captions-header">Captions</h2><div id="mw-imagepage-content" lang="en" dir="ltr" class="mw-content-ltr"><div class="mw-parser-output"><h2><span class="mw-headline" id="Summary">Summary</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=File:Italian_traffic_signs_-_fine_pista_ciclabile_contigua_al_marciapiede.svg&amp;action=edit&amp;section=1" title="Edit section: Summary">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
-<div class="hproduct commons-file-information-table">
-<table class="fileinfotpl-type-information toccolours vevent mw-content-ltr" style="width: 100%; direction: ltr;" cellpadding="4">
-
-<tbody><tr style="vertical-align: top">
-<td id="fileinfotpl_desc" class="fileinfo-paramfield" lang="en">Description<span class="summary fn" style="display:none">Italian traffic signs - fine pista ciclabile contigua al marciapiede.svg</span></td>
-<td class="description">
-<div class="description mw-content-ltr it" dir="ltr" lang="it"><span class="language it" title="Italian"><b>Italiano&#58; </b></span> fine della pista ciclabile contigua al marciapiede</div>
-<div class="description mw-content-ltr en" dir="ltr" lang="en"><span class="language en" title="English"><b>English&#58; </b></span> end of the bike lane along the side of the sidewalk</div></td>
-</tr>
-
-<tr style="vertical-align: top">
-<td id="fileinfotpl_date" class="fileinfo-paramfield" lang="en">Date</td>
-<td lang="en">
-9 November 2006 (upload date)</td>
-</tr>
-
-<tr style="vertical-align: top">
-<td id="fileinfotpl_src" class="fileinfo-paramfield" lang="en">Source</td>
-<td>
-<span class="int-own-work" lang="en">Own work</span></td>
-</tr>
-
-<tr style="vertical-align: top">
-<td id="fileinfotpl_aut" class="fileinfo-paramfield" lang="en">Author</td>
-<td>
-<a href="/wiki/User:F_l_a_n_k_e_r" title="User:F l a n k e r">F l a n k e r</a></td>
-</tr>
-
-<tr style="vertical-align: top">
-<td id="fileinfotpl_perm" class="fileinfo-paramfield" lang="en">Permission<br /><small>(<a href="/wiki/Commons:Reusing_content_outside_Wikimedia" title="Commons:Reusing content outside Wikimedia">Reusing this file</a>)</small></td>
-<td>
-<table class="licensetpl" style="display:none">
-<tbody><tr>
-<td><span class="licensetpl_short">Public domain</span><span class="licensetpl_long">Public domain</span><span class="licensetpl_link_req">false</span><span class="licensetpl_attr_req">false</span>
-</td></tr></tbody></table>
-<table style="width:100%; clear:both; margin:0.5em auto; background-color:#f7f8ff; border:2px solid #8888aa; direction: ltr; border-spacing: 8px; padding: 0px;" class="layouttemplate mw-content-ltr" lang="en">
-<tbody><tr>
-<td><img alt="Public domain" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/PD-icon.svg/64px-PD-icon.svg.png" decoding="async" title="Public domain" width="64" height="64" srcset="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/PD-icon.svg/96px-PD-icon.svg.png 1.5x, https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/PD-icon.svg/128px-PD-icon.svg.png 2x" data-file-width="196" data-file-height="196" />
-</td>
-<td>I, the copyright holder of this work, release this work into the <b><a href="https://en.wikipedia.org/wiki/en:public_domain" class="extiw" title="w:en:public domain">public domain</a></b>. This applies worldwide.<br /><small>In some countries this may not be legally possible; if so:</small><br /><i>I grant anyone the right to use this work <b>for any purpose</b>, without any conditions, unless such conditions are required by law.</i>
-</td></tr></tbody></table></td>
-</tr>
-
-
-</tbody></table>
-</div>
-<!-- 
-NewPP limit report
-Parsed by mw1432
-Cached time: 20211009104316
-Cache expiry: 1814400
-Reduced expiry: false
-Complications: []
-CPU time usage: 0.086 seconds
-Real time usage: 0.130 seconds
-Preprocessor visited node count: 372/1000000
-Post‐expand include size: 9136/2097152 bytes
-Template argument size: 442/2097152 bytes
-Highest expansion depth: 10/40
-Expensive parser function count: 1/500
-Unstrip recursion depth: 0/20
-Unstrip post‐expand size: 0/5000000 bytes
-Lua time usage: 0.035/10.000 seconds
-Lua memory usage: 1032215/52428800 bytes
-Number of Wikibase entities loaded: 1/400
--->
-<!--
-Transclusion expansion time report (%,ms,calls,template)
-100.00%  110.002      1 Template:Information
-100.00%  110.002      1 -total
- 31.36%   34.497      1 Template:PD-self
- 18.75%   20.628      1 Template:SDC_statement_has_value
- 15.48%   17.028      1 Template:Upload_date
-  8.50%    9.352      1 Template:PD-Layout
-  8.49%    9.335      1 Template:It
-  8.09%    8.900      2 Template:Description
-  6.73%    7.398      1 Template:LangSwitch
-  6.20%    6.822      1 Template:ISOdate
--->
-
-<!-- Saved in parser cache with key commonswiki:pcache:idhash:1353030-0!wb=3 and timestamp 20211009104316 and revision id 542836966. Serialized with JSON.
- -->
-</div></div><h2 id="filehistory">File history</h2>
-<div id="mw-imagepage-section-filehistory">
-<p>Click on a date/time to view the file as it appeared at that time.
-</p>
-<table class="wikitable filehistory">
-<tr><th></th><th>Date/Time</th><th>Thumbnail</th><th>Dimensions</th><th>User</th><th>Comment</th></tr>
-<tr><td>current</td><td class='filehistory-selected' style='white-space: nowrap;'><a href="https://upload.wikimedia.org/wikipedia/commons/d/d4/Italian_traffic_signs_-_fine_pista_ciclabile_contigua_al_marciapiede.svg">08:27, 11 March 2021</a></td><td><a href="https://upload.wikimedia.org/wikipedia/commons/d/d4/Italian_traffic_signs_-_fine_pista_ciclabile_contigua_al_marciapiede.svg"><img alt="Thumbnail for version as of 08:27, 11 March 2021" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Italian_traffic_signs_-_fine_pista_ciclabile_contigua_al_marciapiede.svg/120px-Italian_traffic_signs_-_fine_pista_ciclabile_contigua_al_marciapiede.svg.png" decoding="async" width="120" height="120" data-file-width="200" data-file-height="200" /></a></td><td>200 × 200 <span style="white-space: nowrap;">(10 KB)</span></td><td><a href="/wiki/User:Pav03" class="mw-userlink" title="User:Pav03"><bdi>Pav03</bdi></a><span style="white-space: nowrap;"> <span class="mw-usertoollinks">(<a href="/wiki/User_talk:Pav03" class="mw-usertoollinks-talk" title="User talk:Pav03">talk</a> | <a href="/wiki/Special:Contributions/Pav03" class="mw-usertoollinks-contribs" title="Special:Contributions/Pav03">contribs</a>)</span></span></td><td dir="ltr">Corretto pittogramma pedone</td></tr>
-<tr><td></td><td  style='white-space: nowrap;'><a href="https://upload.wikimedia.org/wikipedia/commons/archive/d/d4/20210311082727%21Italian_traffic_signs_-_fine_pista_ciclabile_contigua_al_marciapiede.svg">12:29, 9 November 2006</a></td><td><a href="https://upload.wikimedia.org/wikipedia/commons/archive/d/d4/20210311082727%21Italian_traffic_signs_-_fine_pista_ciclabile_contigua_al_marciapiede.svg"><img alt="Thumbnail for version as of 12:29, 9 November 2006" src="https://upload.wikimedia.org/wikipedia/commons/thumb/archive/d/d4/20210311082727%21Italian_traffic_signs_-_fine_pista_ciclabile_contigua_al_marciapiede.svg/120px-Italian_traffic_signs_-_fine_pista_ciclabile_contigua_al_marciapiede.svg.png" decoding="async" width="120" height="120" data-file-width="200" data-file-height="200" /></a></td><td>200 × 200 <span style="white-space: nowrap;">(11 KB)</span></td><td><a href="/wiki/User:F_l_a_n_k_e_r" class="mw-userlink" title="User:F l a n k e r"><bdi>F l a n k e r</bdi></a><span style="white-space: nowrap;"> <span class="mw-usertoollinks">(<a href="/wiki/User_talk:F_l_a_n_k_e_r" class="mw-usertoollinks-talk" title="User talk:F l a n k e r">talk</a> | <a href="/wiki/Special:Contributions/F_l_a_n_k_e_r" class="mw-usertoollinks-contribs" title="Special:Contributions/F l a n k e r">contribs</a>)</span></span></td><td dir="ltr">== Summary == {{Information| |Description= {{it|pista ciclabile contigua al marciapiede}} {{en|bike lane along the side of the sidewalk}} |Source= |Date=9/11/2006 |Author= <a href="/wiki/User:F_l_a_n_k_e_r" title="User:F l a n k e r">F l a n k e r</a> |Permission= {{PD-self}} }}  [[Category:Diagra</td></tr>
-</table>
-
-</div>
-<div class="mw-imagepage-upload-links"><p id="mw-imagepage-upload-disallowed">You cannot overwrite this file.</p></div><h2 id="filelinks">File usage on Commons</h2>
-<div id='mw-imagepage-section-linkstoimage'>
-<p>The following page uses this file:
-</p><ul class="mw-imagepage-linkstoimage">
-<li class="mw-imagepage-linkstoimage-ns0"><a href="/wiki/Road_signs_in_Italy" title="Road signs in Italy">Road signs in Italy</a></li>
-</ul>
-</div>
-<h2 id="globalusage">File usage on other wikis</h2>
-<div id="mw-imagepage-section-globalusage"><p>The following other wikis use this file:
-</p><ul>
-<li class='mw-gu-onwiki-bn_wikipedia_org'>Usage on bn.wikipedia.org
-<ul>	<li><a class="external" href="https://bn.wikipedia.org/wiki/%E0%A6%87%E0%A6%A4%E0%A6%BE%E0%A6%B2%E0%A6%BF%E0%A6%B0_%E0%A6%B8%E0%A6%A1%E0%A6%BC%E0%A6%95_%E0%A6%B8%E0%A6%82%E0%A6%95%E0%A7%87%E0%A6%A4%E0%A6%B8%E0%A6%AE%E0%A7%82%E0%A6%B9">ইতালির সড়ক সংকেতসমূহ</a></li>
-</ul></li>
-<li class='mw-gu-onwiki-en_wikipedia_org'>Usage on en.wikipedia.org
-<ul>	<li><a class="external" href="https://en.wikipedia.org/wiki/Road_signs_in_Italy">Road signs in Italy</a></li>
-</ul></li>
-<li class='mw-gu-onwiki-it_wikipedia_org'>Usage on it.wikipedia.org
-<ul>	<li><a class="external" href="https://it.wikipedia.org/wiki/Pista_ciclabile">Pista ciclabile</a></li>
-	<li><a class="external" href="https://it.wikipedia.org/wiki/Segnali_di_prescrizione_nella_segnaletica_verticale_italiana">Segnali di prescrizione nella segnaletica verticale italiana</a></li>
-	<li><a class="external" href="https://it.wikipedia.org/wiki/Utente:Gigillo83/prova/Svezia">Utente:Gigillo83/prova/Svezia</a></li>
-	<li><a class="external" href="https://it.wikipedia.org/wiki/Utente:Gigillo83/prova/Austria">Utente:Gigillo83/prova/Austria</a></li>
-	<li><a class="external" href="https://it.wikipedia.org/wiki/Utente:Gigillo83/prova/Polonia">Utente:Gigillo83/prova/Polonia</a></li>
-	<li><a class="external" href="https://it.wikipedia.org/wiki/Utente:Gigillo83/prova/Repubblica_Ceca">Utente:Gigillo83/prova/Repubblica Ceca</a></li>
-	<li><a class="external" href="https://it.wikipedia.org/wiki/Segnaletica_stradale_in_Albania">Segnaletica stradale in Albania</a></li>
-	<li><a class="external" href="https://it.wikipedia.org/wiki/Utente:Ciclofi/sandbox">Utente:Ciclofi/sandbox</a></li>
-	<li><a class="external" href="https://it.wikipedia.org/wiki/Utente:Ciclofi/sandbox/fatto">Utente:Ciclofi/sandbox/fatto</a></li>
-</ul></li>
-<li class='mw-gu-onwiki-it_wikibooks_org'>Usage on it.wikibooks.org
-<ul>	<li><a class="external" href="https://it.wikibooks.org/wiki/Wikibooks:Deposito/Moduli/Confronto_tra_segnaletica_stradale_italiana_e_austriaca">Wikibooks:Deposito/Moduli/Confronto tra segnaletica stradale italiana e austriaca</a></li>
-	<li><a class="external" href="https://it.wikibooks.org/wiki/Wikibooks:Deposito/Moduli/Confronto_tra_segnaletica_stradale_italiana_e_svedese">Wikibooks:Deposito/Moduli/Confronto tra segnaletica stradale italiana e svedese</a></li>
-	<li><a class="external" href="https://it.wikibooks.org/wiki/Wikibooks:Deposito/Moduli/Confronto_tra_segnaletica_stradale_italiana_e_polacca">Wikibooks:Deposito/Moduli/Confronto tra segnaletica stradale italiana e polacca</a></li>
-	<li><a class="external" href="https://it.wikibooks.org/wiki/Wikibooks:Deposito/Moduli/Confronto_tra_segnaletica_stradale_italiana_e_ceca">Wikibooks:Deposito/Moduli/Confronto tra segnaletica stradale italiana e ceca</a></li>
-</ul></li>
-<li class='mw-gu-onwiki-it_wikiversity_org'>Usage on it.wikiversity.org
-<ul>	<li><a class="external" href="https://it.wikiversity.org/wiki/Segnali_di_Prescrizione:_Obbligo">Segnali di Prescrizione: Obbligo</a></li>
-</ul></li>
-</ul>
-</div><h2 id="metadata">Metadata</h2>
-<div class="mw-imagepage-section-metadata"><p>This file contains additional information such as Exif metadata which may have been added by the digital camera, scanner, or software program used to create or digitize it. If the file has been modified from its original state, some details such as the timestamp may not fully reflect those of the original file. The timestamp is only as accurate as the clock in the camera, and it may be completely wrong.</p><table id="mw_metadata" class="mw_metadata collapsed">
-<tbody><tr class="exif-imagewidth mw-metadata-collapsible"><th>Width</th><td>200</td></tr><tr class="exif-imagelength mw-metadata-collapsible"><th>Height</th><td>200</td></tr></tbody></table>
-</div></div><div role='tabpanel' id='ooui-php-5' class='wbmi-tab oo-ui-layout oo-ui-panelLayout oo-ui-panelLayout-scrollable oo-ui-tabPanelLayout' data-ooui='{"_":"OO.ui.TabPanelLayout","name":"statements","label":"Structured data","scrollable":true,"expanded":false,"classes":["wbmi-tab"]}'><h2 class="wbmi-structured-data-header">Structured data</h2><div id='P180' data-property='P180' data-statements='[]' data-formatvalue='[]' class='wbmi-entityview-statementsGroup wbmi-entityview-statementsGroup-P180 oo-ui-layout oo-ui-panelLayout oo-ui-panelLayout-framed'><div class='wbmi-statements-widget'><div class='wbmi-statement-header'><div class='wbmi-entity-data'><div class='wbmi-entity-title'><h3 class='wbmi-statements-title'>Items portrayed in this file</h3><h4 class='wbmi-entity-label'><bdi><a target="_blank" title="d:Special:EntityPage/P180" href="https://www.wikidata.org/wiki/Special:EntityPage/P180">depicts</a></bdi></h4></div></div></div><div class='wbmi-content-items-group'></div></div></div><div id='P170' data-property='P170' data-statements='[{"mainsnak":{"snaktype":"somevalue","property":"P170"},"type":"statement","qualifiers":{"P2699":[{"snaktype":"value","property":"P2699","hash":"85cd62e3337f76066cb7183353913740621c9e9b","datavalue":{"value":"https:\/\/commons.wikimedia.org\/wiki\/user:F_l_a_n_k_e_r","type":"string"}}],"P2093":[{"snaktype":"value","property":"P2093","hash":"877edd56df9e247f74b69f9932d147aaeb72febd","datavalue":{"value":"F l a n k e r","type":"string"}}],"P4174":[{"snaktype":"value","property":"P4174","hash":"712582f4c97dbec4b65aa118115889dd7d18f732","datavalue":{"value":"F l a n k e r","type":"string"}}]},"qualifiers-order":["P2699","P2093","P4174"],"id":"M1353030$B1AA04EF-8330-4400-8181-639067F92080","rank":"normal"}]' data-formatvalue='{"{\"value\":{\"entity-type\":\"property\",\"numeric-id\":170,\"id\":\"P170\"},\"type\":\"wikibase-entityid\"}":{"text\/html":{"en":{"":"&lt;a target=\"_blank\" title=\"d:Special:EntityPage\/P170\" href=\"https:\/\/www.wikidata.org\/wiki\/Special:EntityPage\/P170\"&gt;creator&lt;\/a&gt;"}},"text\/plain":{"en":{"":"creator"}}},"{\"value\":{\"entity-type\":\"property\",\"numeric-id\":2699,\"id\":\"P2699\"},\"type\":\"wikibase-entityid\"}":{"text\/html":{"en":{"":"&lt;a target=\"_blank\" title=\"d:Special:EntityPage\/P2699\" href=\"https:\/\/www.wikidata.org\/wiki\/Special:EntityPage\/P2699\"&gt;URL&lt;\/a&gt;"}},"text\/plain":{"en":{"":"URL"}}},"{\"value\":\"https:\\\/\\\/commons.wikimedia.org\\\/wiki\\\/user:F_l_a_n_k_e_r\",\"type\":\"string\"}":{"text\/html":{"en":{"P2699":"&lt;a target=\"_blank\" rel=\"nofollow\" class=\"external free\" href=\"https:\/\/commons.wikimedia.org\/wiki\/user:F_l_a_n_k_e_r\"&gt;https:\/\/commons.wikimedia.org\/wiki\/user:F_l_a_n_k_e_r&lt;\/a&gt;"}},"text\/plain":{"en":{"P2699":"https:\/\/commons.wikimedia.org\/wiki\/user:F_l_a_n_k_e_r"}}},"{\"value\":{\"entity-type\":\"property\",\"numeric-id\":2093,\"id\":\"P2093\"},\"type\":\"wikibase-entityid\"}":{"text\/html":{"en":{"":"&lt;a target=\"_blank\" title=\"d:Special:EntityPage\/P2093\" href=\"https:\/\/www.wikidata.org\/wiki\/Special:EntityPage\/P2093\"&gt;author name string&lt;\/a&gt;"}},"text\/plain":{"en":{"":"author name string"}}},"{\"value\":\"F l a n k e r\",\"type\":\"string\"}":{"text\/html":{"en":{"P2093":"F l a n k e r","P4174":"&lt;a target=\"_blank\" class=\"wb-external-id external\" href=\"https:\/\/www.wikidata.org\/wiki\/Special:CentralAuth?target=F%20l%20a%20n%20k%20e%20r\" rel=\"nofollow\"&gt;F l a n k e r&lt;\/a&gt;"}},"text\/plain":{"en":{"P2093":"F l a n k e r","P4174":"F l a n k e r"}}},"{\"value\":{\"entity-type\":\"property\",\"numeric-id\":4174,\"id\":\"P4174\"},\"type\":\"wikibase-entityid\"}":{"text\/html":{"en":{"":"&lt;a target=\"_blank\" title=\"d:Special:EntityPage\/P4174\" href=\"https:\/\/www.wikidata.org\/wiki\/Special:EntityPage\/P4174\"&gt;Wikimedia username&lt;\/a&gt;"}},"text\/plain":{"en":{"":"Wikimedia username"}}}}' class='wbmi-entityview-statementsGroup wbmi-entityview-statementsGroup-P170 oo-ui-layout oo-ui-panelLayout oo-ui-panelLayout-framed'><div class='wbmi-statements-widget'><div class='wbmi-statement-header'><div class='wbmi-entity-data'><div class='wbmi-entity-title'><h4 class='wbmi-entity-label'><bdi><a target="_blank" title="d:Special:EntityPage/P170" href="https://www.wikidata.org/wiki/Special:EntityPage/P170">creator</a></bdi></h4></div></div></div><div class='wbmi-content-items-group'><div class='wbmi-item wbmi-item-read'><div data-guid='M1353030$B1AA04EF-8330-4400-8181-639067F92080' class='wbmi-item-container'><div class='wbmi-entity-header'><div class='wbmi-entity-data'><div class='wbmi-entity-title'><h4 class='wbmi-entity-label'><bdi>some value</bdi></h4></div></div></div><div class='wbmi-item-content'><div class='wbmi-item-content-group'><div class='wbmi-qualifier'><div class='wbmi-qualifier-value'><a target="_blank" title="d:Special:EntityPage/P2699" href="https://www.wikidata.org/wiki/Special:EntityPage/P2699">URL</a><span class='wbmi-qualifier-value-separator'>: </span><span class='wbmi-qualifier-value--value'><a target="_blank" rel="nofollow" class="external free" href="https://commons.wikimedia.org/wiki/user:F_l_a_n_k_e_r">https://commons.wikimedia.org/wiki/user:F_l_a_n_k_e_r</a></span></div></div><div class='wbmi-qualifier'><div class='wbmi-qualifier-value'><a target="_blank" title="d:Special:EntityPage/P2093" href="https://www.wikidata.org/wiki/Special:EntityPage/P2093">author name string</a><span class='wbmi-qualifier-value-separator'>: </span><span class='wbmi-qualifier-value--value'>F l a n k e r</span></div></div><div class='wbmi-qualifier'><div class='wbmi-qualifier-value'><a target="_blank" title="d:Special:EntityPage/P4174" href="https://www.wikidata.org/wiki/Special:EntityPage/P4174">Wikimedia username</a><span class='wbmi-qualifier-value-separator'>: </span><span class='wbmi-qualifier-value--value'><a target="_blank" class="wb-external-id external" href="https://www.wikidata.org/wiki/Special:CentralAuth?target=F%20l%20a%20n%20k%20e%20r" rel="nofollow">F l a n k e r</a></span></div></div></div></div></div></div></div></div></div><div id='P6216' data-property='P6216' data-statements='[{"mainsnak":{"snaktype":"value","property":"P6216","datavalue":{"value":{"entity-type":"item","numeric-id":88088423,"id":"Q88088423"},"type":"wikibase-entityid"}},"type":"statement","id":"M1353030$D47D441D-A302-43D7-9FC5-B895ED308230","rank":"normal"}]' data-formatvalue='{"{\"value\":{\"entity-type\":\"property\",\"numeric-id\":6216,\"id\":\"P6216\"},\"type\":\"wikibase-entityid\"}":{"text\/html":{"en":{"":"&lt;a target=\"_blank\" title=\"d:Special:EntityPage\/P6216\" href=\"https:\/\/www.wikidata.org\/wiki\/Special:EntityPage\/P6216\"&gt;copyright status&lt;\/a&gt;"}},"text\/plain":{"en":{"":"copyright status"}}},"{\"value\":{\"entity-type\":\"item\",\"numeric-id\":88088423,\"id\":\"Q88088423\"},\"type\":\"wikibase-entityid\"}":{"text\/html":{"en":{"P6216":"&lt;a target=\"_blank\" title=\"d:Special:EntityPage\/Q88088423\" href=\"https:\/\/www.wikidata.org\/wiki\/Special:EntityPage\/Q88088423\"&gt;copyrighted, dedicated to the public domain by copyright holder&lt;\/a&gt;"}},"text\/plain":{"en":{"P6216":"copyrighted, dedicated to the public domain by copyright holder"}}}}' class='wbmi-entityview-statementsGroup wbmi-entityview-statementsGroup-P6216 oo-ui-layout oo-ui-panelLayout oo-ui-panelLayout-framed'><div class='wbmi-statements-widget'><div class='wbmi-statement-header'><div class='wbmi-entity-data'><div class='wbmi-entity-title'><h4 class='wbmi-entity-label'><bdi><a target="_blank" title="d:Special:EntityPage/P6216" href="https://www.wikidata.org/wiki/Special:EntityPage/P6216">copyright status</a></bdi></h4></div></div></div><div class='wbmi-content-items-group'><div class='wbmi-item wbmi-item-read'><div data-guid='M1353030$D47D441D-A302-43D7-9FC5-B895ED308230' class='wbmi-item-container'><div class='wbmi-entity-header'><div class='wbmi-entity-data'><div class='wbmi-entity-title'><h4 class='wbmi-entity-label'><bdi><a target="_blank" title="d:Special:EntityPage/Q88088423" href="https://www.wikidata.org/wiki/Special:EntityPage/Q88088423">copyrighted, dedicated to the public domain by copyright holder</a></bdi></h4></div></div></div></div></div></div></div></div><div id='P275' data-property='P275' data-statements='[{"mainsnak":{"snaktype":"value","property":"P275","datavalue":{"value":{"entity-type":"item","numeric-id":98592850,"id":"Q98592850"},"type":"wikibase-entityid"}},"type":"statement","id":"M1353030$E774B7DD-72D2-4019-9D7D-17B5FD1EB668","rank":"normal"}]' data-formatvalue='{"{\"value\":{\"entity-type\":\"property\",\"numeric-id\":275,\"id\":\"P275\"},\"type\":\"wikibase-entityid\"}":{"text\/html":{"en":{"":"&lt;a target=\"_blank\" title=\"d:Special:EntityPage\/P275\" href=\"https:\/\/www.wikidata.org\/wiki\/Special:EntityPage\/P275\"&gt;copyright license&lt;\/a&gt;"}},"text\/plain":{"en":{"":"copyright license"}}},"{\"value\":{\"entity-type\":\"item\",\"numeric-id\":98592850,\"id\":\"Q98592850\"},\"type\":\"wikibase-entityid\"}":{"text\/html":{"en":{"P275":"&lt;a target=\"_blank\" title=\"d:Special:EntityPage\/Q98592850\" href=\"https:\/\/www.wikidata.org\/wiki\/Special:EntityPage\/Q98592850\"&gt;released into the public domain by the copyright holder&lt;\/a&gt;"}},"text\/plain":{"en":{"P275":"released into the public domain by the copyright holder"}}}}' class='wbmi-entityview-statementsGroup wbmi-entityview-statementsGroup-P275 oo-ui-layout oo-ui-panelLayout oo-ui-panelLayout-framed'><div class='wbmi-statements-widget'><div class='wbmi-statement-header'><div class='wbmi-entity-data'><div class='wbmi-entity-title'><h4 class='wbmi-entity-label'><bdi><a target="_blank" title="d:Special:EntityPage/P275" href="https://www.wikidata.org/wiki/Special:EntityPage/P275">copyright license</a></bdi></h4></div></div></div><div class='wbmi-content-items-group'><div class='wbmi-item wbmi-item-read'><div data-guid='M1353030$E774B7DD-72D2-4019-9D7D-17B5FD1EB668' class='wbmi-item-container'><div class='wbmi-entity-header'><div class='wbmi-entity-data'><div class='wbmi-entity-title'><h4 class='wbmi-entity-label'><bdi><a target="_blank" title="d:Special:EntityPage/Q98592850" href="https://www.wikidata.org/wiki/Special:EntityPage/Q98592850">released into the public domain by the copyright holder</a></bdi></h4></div></div></div></div></div></div></div></div><div id='P7482' data-property='P7482' data-statements='[{"mainsnak":{"snaktype":"value","property":"P7482","datavalue":{"value":{"entity-type":"item","numeric-id":66458942,"id":"Q66458942"},"type":"wikibase-entityid"}},"type":"statement","id":"M1353030$B0B0604F-EFBC-4186-81AD-1C6B3E74E08C","rank":"normal"}]' data-formatvalue='{"{\"value\":{\"entity-type\":\"property\",\"numeric-id\":7482,\"id\":\"P7482\"},\"type\":\"wikibase-entityid\"}":{"text\/html":{"en":{"":"&lt;a target=\"_blank\" title=\"d:Special:EntityPage\/P7482\" href=\"https:\/\/www.wikidata.org\/wiki\/Special:EntityPage\/P7482\"&gt;source of file&lt;\/a&gt;"}},"text\/plain":{"en":{"":"source of file"}}},"{\"value\":{\"entity-type\":\"item\",\"numeric-id\":66458942,\"id\":\"Q66458942\"},\"type\":\"wikibase-entityid\"}":{"text\/html":{"en":{"P7482":"&lt;a target=\"_blank\" title=\"d:Special:EntityPage\/Q66458942\" href=\"https:\/\/www.wikidata.org\/wiki\/Special:EntityPage\/Q66458942\"&gt;original creation by uploader&lt;\/a&gt;"}},"text\/plain":{"en":{"P7482":"original creation by uploader"}}}}' class='wbmi-entityview-statementsGroup wbmi-entityview-statementsGroup-P7482 oo-ui-layout oo-ui-panelLayout oo-ui-panelLayout-framed'><div class='wbmi-statements-widget'><div class='wbmi-statement-header'><div class='wbmi-entity-data'><div class='wbmi-entity-title'><h4 class='wbmi-entity-label'><bdi><a target="_blank" title="d:Special:EntityPage/P7482" href="https://www.wikidata.org/wiki/Special:EntityPage/P7482">source of file</a></bdi></h4></div></div></div><div class='wbmi-content-items-group'><div class='wbmi-item wbmi-item-read'><div data-guid='M1353030$B0B0604F-EFBC-4186-81AD-1C6B3E74E08C' class='wbmi-item-container'><div class='wbmi-entity-header'><div class='wbmi-entity-data'><div class='wbmi-entity-title'><h4 class='wbmi-entity-label'><bdi><a target="_blank" title="d:Special:EntityPage/Q66458942" href="https://www.wikidata.org/wiki/Special:EntityPage/Q66458942">original creation by uploader</a></bdi></h4></div></div></div></div></div></div></div></div><div id='P571' data-property='P571' data-statements='[{"mainsnak":{"snaktype":"value","property":"P571","datavalue":{"value":{"time":"+2006-11-09T00:00:00Z","timezone":0,"before":0,"after":0,"precision":11,"calendarmodel":"http:\/\/www.wikidata.org\/entity\/Q1985727"},"type":"time"}},"type":"statement","id":"M1353030$04D5330B-4298-4D6A-B5E1-E0F07B3DE951","rank":"normal"}]' data-formatvalue='{"{\"value\":{\"entity-type\":\"property\",\"numeric-id\":571,\"id\":\"P571\"},\"type\":\"wikibase-entityid\"}":{"text\/html":{"en":{"":"&lt;a target=\"_blank\" title=\"d:Special:EntityPage\/P571\" href=\"https:\/\/www.wikidata.org\/wiki\/Special:EntityPage\/P571\"&gt;inception&lt;\/a&gt;"}},"text\/plain":{"en":{"":"inception"}}},"{\"value\":{\"time\":\"+2006-11-09T00:00:00Z\",\"timezone\":0,\"before\":0,\"after\":0,\"precision\":11,\"calendarmodel\":\"http:\\\/\\\/www.wikidata.org\\\/entity\\\/Q1985727\"},\"type\":\"time\"}":{"text\/html":{"en":{"P571":"9 November 2006"}},"text\/plain":{"en":{"P571":"9 November 2006"}}}}' class='wbmi-entityview-statementsGroup wbmi-entityview-statementsGroup-P571 oo-ui-layout oo-ui-panelLayout oo-ui-panelLayout-framed'><div class='wbmi-statements-widget'><div class='wbmi-statement-header'><div class='wbmi-entity-data'><div class='wbmi-entity-title'><h4 class='wbmi-entity-label'><bdi><a target="_blank" title="d:Special:EntityPage/P571" href="https://www.wikidata.org/wiki/Special:EntityPage/P571">inception</a></bdi></h4></div></div></div><div class='wbmi-content-items-group'><div class='wbmi-item wbmi-item-read'><div data-guid='M1353030$04D5330B-4298-4D6A-B5E1-E0F07B3DE951' class='wbmi-item-container'><div class='wbmi-entity-header'><div class='wbmi-entity-data'><div class='wbmi-entity-title'><h4 class='wbmi-entity-label'><bdi>9 November 2006</bdi></h4></div></div></div></div></div></div></div></div></div></div></div></div></div><noscript><img src="//commons.wikimedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript>
-<div class="printfooter">Retrieved from "<a dir="ltr" href="https://commons.wikimedia.org/w/index.php?title=File:Italian_traffic_signs_-_fine_pista_ciclabile_contigua_al_marciapiede.svg&amp;oldid=542836966">https://commons.wikimedia.org/w/index.php?title=File:Italian_traffic_signs_-_fine_pista_ciclabile_contigua_al_marciapiede.svg&amp;oldid=542836966</a>"</div></div>
-		<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Special:Categories" title="Special:Categories">Categories</a>: <ul><li><a href="/wiki/Category:Diagrams_of_mandatory_road_signs_of_Italy" title="Category:Diagrams of mandatory road signs of Italy">Diagrams of mandatory road signs of Italy</a></li><li><a href="/wiki/Category:SVG_road_signs_in_Italy" title="Category:SVG road signs in Italy">SVG road signs in Italy</a></li><li><a href="/wiki/Category:End_of_cyclist_path_signs" title="Category:End of cyclist path signs">End of cyclist path signs</a></li><li><a href="/wiki/Category:Segregated_pedestrian_and_cyclist_path_signs" title="Category:Segregated pedestrian and cyclist path signs">Segregated pedestrian and cyclist path signs</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-user-shown">Hidden categories: <ul><li><a href="/wiki/Category:Self-published_work" title="Category:Self-published work">Self-published work</a></li><li><a href="/wiki/Category:PD-self" title="Category:PD-self">PD-self</a></li></ul></div></div>
-	</div>
-</div>
-
-<div id="mw-navigation">
-	<h2>Navigation menu</h2>
-	<div id="mw-head">
-		<nav id="p-personal" class="mw-portlet mw-portlet-personal vector-user-menu-legacy vector-menu" aria-labelledby="p-personal-label" role="navigation" 
-	 >
-	<h3 id="p-personal-label" aria-label="" class="vector-menu-heading">
-		
-		<span>Personal tools</span>
-	</h3>
-	<div class="vector-menu-content">
-		
-		<ul class="vector-menu-content-list"><li id="pt-uls" class="mw-list-item active"><a class="uls-trigger" href="#"><span>English</span></a></li><li id="pt-anonuserpage" class="mw-list-item"><span>Not logged in</span></li><li id="pt-anontalk" class="mw-list-item"><a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n"><span>Talk</span></a></li><li id="pt-anoncontribs" class="mw-list-item"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y"><span>Contributions</span></a></li><li id="pt-createaccount" class="mw-list-item"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=File%3AItalian+traffic+signs+-+fine+pista+ciclabile+contigua+al+marciapiede.svg" title="You are encouraged to create an account and log in; however, it is not mandatory"><span>Create account</span></a></li><li id="pt-login" class="mw-list-item"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=File%3AItalian+traffic+signs+-+fine+pista+ciclabile+contigua+al+marciapiede.svg" title="You are encouraged to log in; however, it is not mandatory [o]" accesskey="o"><span>Log in</span></a></li></ul>
-		
-	</div>
-</nav>
-
-		<div id="left-navigation">
-			<nav id="p-namespaces" class="mw-portlet mw-portlet-namespaces vector-menu vector-menu-tabs" aria-labelledby="p-namespaces-label" role="navigation" 
-	 >
-	<h3 id="p-namespaces-label" aria-label="" class="vector-menu-heading">
-		
-		<span>Namespaces</span>
-	</h3>
-	<div class="vector-menu-content">
-		
-		<ul class="vector-menu-content-list"><li id="ca-nstab-image" class="selected mw-list-item"><a href="/wiki/File:Italian_traffic_signs_-_fine_pista_ciclabile_contigua_al_marciapiede.svg" title="View the file page [c]" accesskey="c"><span>File</span></a></li><li id="ca-talk" class="new mw-list-item"><a href="/w/index.php?title=File_talk:Italian_traffic_signs_-_fine_pista_ciclabile_contigua_al_marciapiede.svg&amp;action=edit&amp;redlink=1" rel="discussion" title="Discussion about the content page (page does not exist) [t]" accesskey="t"><span>Discussion</span></a></li></ul>
-		
-	</div>
-</nav>
-
-			<nav id="p-variants" class="mw-portlet mw-portlet-variants emptyPortlet vector-menu-dropdown-noicon vector-menu vector-menu-dropdown" aria-labelledby="p-variants-label" role="navigation" 
-	 >
-	<input type="checkbox"
-		id="p-variants-checkbox"
-		role="button"
-		aria-haspopup="true"
-		data-event-name="ui.dropdown-p-variants"
-		class="vector-menu-checkbox" aria-labelledby="p-variants-label" />
-	<h3 id="p-variants-label" aria-label="Change language variant" class="vector-menu-heading">
-		
-		<span>Variants</span>
-			<span class="vector-menu-checkbox-expanded">expanded</span>
-			<span class="vector-menu-checkbox-collapsed">collapsed</span>
-	</h3>
-	<div class="vector-menu-content">
-		
-		<ul class="vector-menu-content-list"></ul>
-		
-	</div>
-</nav>
-
-		</div>
-		<div id="right-navigation">
-			<nav id="p-views" class="mw-portlet mw-portlet-views vector-menu vector-menu-tabs" aria-labelledby="p-views-label" role="navigation" 
-	 >
-	<h3 id="p-views-label" aria-label="" class="vector-menu-heading">
-		
-		<span>Views</span>
-	</h3>
-	<div class="vector-menu-content">
-		
-		<ul class="vector-menu-content-list"><li id="ca-view" class="selected mw-list-item"><a href="/wiki/File:Italian_traffic_signs_-_fine_pista_ciclabile_contigua_al_marciapiede.svg"><span>View</span></a></li><li id="ca-edit" class="mw-list-item"><a href="/w/index.php?title=File:Italian_traffic_signs_-_fine_pista_ciclabile_contigua_al_marciapiede.svg&amp;action=edit" title="Edit this page [e]" accesskey="e"><span>Edit</span></a></li><li id="ca-history" class="mw-list-item"><a href="/w/index.php?title=File:Italian_traffic_signs_-_fine_pista_ciclabile_contigua_al_marciapiede.svg&amp;action=history" title="Past revisions of this page [h]" accesskey="h"><span>History</span></a></li></ul>
-		
-	</div>
-</nav>
-
-			<nav id="p-cactions" class="mw-portlet mw-portlet-cactions emptyPortlet vector-menu-dropdown-noicon vector-menu vector-menu-dropdown" aria-labelledby="p-cactions-label" role="navigation"  title="More options"
-	 >
-	<input type="checkbox"
-		id="p-cactions-checkbox"
-		role="button"
-		aria-haspopup="true"
-		data-event-name="ui.dropdown-p-cactions"
-		class="vector-menu-checkbox" aria-labelledby="p-cactions-label" />
-	<h3 id="p-cactions-label" aria-label="" class="vector-menu-heading">
-		
-		<span>More</span>
-			<span class="vector-menu-checkbox-expanded">expanded</span>
-			<span class="vector-menu-checkbox-collapsed">collapsed</span>
-	</h3>
-	<div class="vector-menu-content">
-		
-		<ul class="vector-menu-content-list"></ul>
-		
-	</div>
-</nav>
-
-			<div id="p-search" role="search" class=" vector-search-box">
-	<div>
-			<h3 >
-				<label for="searchInput">Search</label>
-			</h3>
-		<form action="/w/index.php" id="searchform"
-			class="vector-search-box-form">
-			<div id="simpleSearch"
-				class="vector-search-box-inner"
-				 data-search-loc="header-navigation">
-				<input class="vector-search-box-input"
-					 type="search" name="search" placeholder="Search Wikimedia Commons" autocapitalize="sentences" title="Search Wikimedia Commons [f]" accesskey="f" id="searchInput"
-				/>
-				<input type="hidden" name="title" value="Special:MediaSearch"/>
-				<input id="mw-searchButton"
-					 class="searchButton mw-fallbackSearchButton" type="submit" name="fulltext" title="Search the pages for this text" value="Search" />
-				<input id="searchButton"
-					 class="searchButton" type="submit" name="go" title="Go to a page with this exact name if it exists" value="Go" />
-			</div>
-		</form>
-	</div>
-</div>
-
-		</div>
-	</div>
-	
-<div id="mw-panel">
-	<div id="p-logo" role="banner">
-		<a class="mw-wiki-logo" href="/wiki/Main_Page"
-			title="Visit the main page"></a>
-	</div>
-	<nav id="p-navigation" class="mw-portlet mw-portlet-navigation vector-menu vector-menu-portal portal" aria-labelledby="p-navigation-label" role="navigation" 
-	 >
-	<h3 id="p-navigation-label" aria-label="" class="vector-menu-heading">
-		
-		<span>Navigate</span>
-	</h3>
-	<div class="vector-menu-content">
-		
-		<ul class="vector-menu-content-list"><li id="n-mainpage-description" class="mw-list-item"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z"><span>Main page</span></a></li><li id="n-welcome" class="mw-list-item"><a href="/wiki/Commons:Welcome"><span>Welcome</span></a></li><li id="n-portal" class="mw-list-item"><a href="/wiki/Commons:Community_portal" title="About the project, what you can do, where to find things"><span>Community portal</span></a></li><li id="n-village-pump" class="mw-list-item"><a href="/wiki/Commons:Village_pump"><span>Village pump</span></a></li><li id="n-help" class="mw-list-item"><a href="/wiki/Special:MyLanguage/Help:Contents" title="The place to find out"><span>Help center</span></a></li></ul>
-		
-	</div>
-</nav>
-
-	<nav id="p-participate" class="mw-portlet mw-portlet-participate vector-menu vector-menu-portal portal" aria-labelledby="p-participate-label" role="navigation" 
-	 >
-	<h3 id="p-participate-label" aria-label="" class="vector-menu-heading">
-		
-		<span>Participate</span>
-	</h3>
-	<div class="vector-menu-content">
-		
-		<ul class="vector-menu-content-list"><li id="n-uploadbtn" class="mw-list-item"><a href="/wiki/Special:UploadWizard"><span>Upload file</span></a></li><li id="n-recentchanges" class="mw-list-item"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r"><span>Recent changes</span></a></li><li id="n-latestfiles" class="mw-list-item"><a href="/wiki/Special:NewFiles"><span>Latest files</span></a></li><li id="n-randomimage" class="mw-list-item"><a href="/wiki/Special:Random/File" title="Load a random file [x]" accesskey="x"><span>Random file</span></a></li><li id="n-contact" class="mw-list-item"><a href="/wiki/Commons:Contact_us"><span>Contact us</span></a></li></ul>
-		
-	</div>
-</nav>
-<nav id="p-tb" class="mw-portlet mw-portlet-tb vector-menu vector-menu-portal portal" aria-labelledby="p-tb-label" role="navigation" 
-	 >
-	<h3 id="p-tb-label" aria-label="" class="vector-menu-heading">
-		
-		<span>Tools</span>
-	</h3>
-	<div class="vector-menu-content">
-		
-		<ul class="vector-menu-content-list"><li id="t-whatlinkshere" class="mw-list-item"><a href="/wiki/Special:WhatLinksHere/File:Italian_traffic_signs_-_fine_pista_ciclabile_contigua_al_marciapiede.svg" title="A list of all wiki pages that link here [j]" accesskey="j"><span>What links here</span></a></li><li id="t-recentchangeslinked" class="mw-list-item"><a href="/wiki/Special:RecentChangesLinked/File:Italian_traffic_signs_-_fine_pista_ciclabile_contigua_al_marciapiede.svg" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k"><span>Related changes</span></a></li><li id="t-specialpages" class="mw-list-item"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q"><span>Special pages</span></a></li><li id="t-permalink" class="mw-list-item"><a href="/w/index.php?title=File:Italian_traffic_signs_-_fine_pista_ciclabile_contigua_al_marciapiede.svg&amp;oldid=542836966" title="Permanent link to this revision of the page"><span>Permanent link</span></a></li><li id="t-info" class="mw-list-item"><a href="/w/index.php?title=File:Italian_traffic_signs_-_fine_pista_ciclabile_contigua_al_marciapiede.svg&amp;action=info" title="More information about this page"><span>Page information</span></a></li><li id="t-wb-concept-uri" class="mw-list-item"><a href="https://commons.wikimedia.org/entity/M1353030" title="URI that identifies the concept described by this Item"><span>Concept URI</span></a></li><li id="t-cite" class="mw-list-item"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=File%3AItalian_traffic_signs_-_fine_pista_ciclabile_contigua_al_marciapiede.svg&amp;id=542836966&amp;wpFormIdentifier=titleform" title="Information on how to cite this page"><span>Cite this page</span></a></li></ul>
-		
-	</div>
-</nav>
-<nav id="p-electronpdfservice-sidebar-portlet-heading" class="mw-portlet mw-portlet-electronpdfservice-sidebar-portlet-heading vector-menu vector-menu-portal portal" aria-labelledby="p-electronpdfservice-sidebar-portlet-heading-label" role="navigation" 
-	 >
-	<h3 id="p-electronpdfservice-sidebar-portlet-heading-label" aria-label="" class="vector-menu-heading">
-		
-		<span>Print/export</span>
-	</h3>
-	<div class="vector-menu-content">
-		
-		<ul class="vector-menu-content-list"><li id="electron-print_pdf" class="mw-list-item"><a href="/w/index.php?title=Special:DownloadAsPdf&amp;page=File%3AItalian_traffic_signs_-_fine_pista_ciclabile_contigua_al_marciapiede.svg&amp;action=show-download-screen"><span>Download as PDF</span></a></li><li id="t-print" class="mw-list-item"><a href="javascript:print();" rel="alternate" title="Printable version of this page [p]" accesskey="p"><span>Printable version</span></a></li></ul>
-		
-	</div>
-</nav>
-
-	
-</div>
-
-</div>
-<footer id="footer" class="mw-footer" role="contentinfo" >
-	<ul id="footer-info">
-	<li id="footer-info-lastmod"> This page was last edited on 16 March 2021, at 03:22.</li>
-	<li id="footer-info-copyright">Files are available under licenses specified on their description page. All structured data from the file namespace is available under the <a href="https://creativecommons.org/publicdomain/zero/1.0/" title="Definition of the Creative Commons CC0 License">Creative Commons CC0 License</a>; all unstructured text is available under the <a href="https://creativecommons.org/licenses/by-sa/3.0/" title="Definition of the Creative Commons Attribution/Share-Alike License">Creative Commons Attribution-ShareAlike License</a>;
-additional terms may apply.
-By using this site, you agree to the <a href="//foundation.wikimedia.org/wiki/Terms_of_Use" title="Wikimedia Foundation Terms of Use">Terms of Use</a> and the <a href="//foundation.wikimedia.org/wiki/Privacy_policy" title="Wikimedia Foundation Privacy Policy">Privacy Policy</a>.</li>
-</ul>
-
-	<ul id="footer-places">
-	<li id="footer-places-privacy"><a href="https://foundation.wikimedia.org/wiki/Privacy_policy" class="extiw" title="wmf:Privacy policy">Privacy policy</a></li>
-	<li id="footer-places-about"><a href="/wiki/Commons:Welcome" title="Commons:Welcome">About Wikimedia Commons</a></li>
-	<li id="footer-places-disclaimer"><a href="/wiki/Commons:General_disclaimer" title="Commons:General disclaimer">Disclaimers</a></li>
-	<li id="footer-places-mobileview"><a href="//commons.m.wikimedia.org/w/index.php?title=File:Italian_traffic_signs_-_fine_pista_ciclabile_contigua_al_marciapiede.svg&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
-	<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
-	<li id="footer-places-statslink"><a href="https://stats.wikimedia.org/#/commons.wikimedia.org">Statistics</a></li>
-	<li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Cookie_statement">Cookie statement</a></li>
-</ul>
-
-	<ul id="footer-icons" class="noprint">
-	<li id="footer-copyrightico"><a href="https://wikimediafoundation.org/"><img src="/static/images/footer/wikimedia-button.png" srcset="/static/images/footer/wikimedia-button-1.5x.png 1.5x, /static/images/footer/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation" loading="lazy" /></a></li>
-	<li id="footer-poweredbyico"><a href="https://www.mediawiki.org/"><img src="/static/images/footer/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/footer/poweredby_mediawiki_132x47.png 1.5x, /static/images/footer/poweredby_mediawiki_176x62.png 2x" width="88" height="31" loading="lazy"/></a></li>
-</ul>
-
-</footer>
-
-
-<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.086","walltime":"0.130","ppvisitednodes":{"value":372,"limit":1000000},"postexpandincludesize":{"value":9136,"limit":2097152},"templateargumentsize":{"value":442,"limit":2097152},"expansiondepth":{"value":10,"limit":40},"expensivefunctioncount":{"value":1,"limit":500},"unstrip-depth":{"value":0,"limit":20},"unstrip-size":{"value":0,"limit":5000000},"entityaccesscount":{"value":1,"limit":400},"timingprofile":["100.00%  110.002      1 Template:Information","100.00%  110.002      1 -total"," 31.36%   34.497      1 Template:PD-self"," 18.75%   20.628      1 Template:SDC_statement_has_value"," 15.48%   17.028      1 Template:Upload_date","  8.50%    9.352      1 Template:PD-Layout","  8.49%    9.335      1 Template:It","  8.09%    8.900      2 Template:Description","  6.73%    7.398      1 Template:LangSwitch","  6.20%    6.822      1 Template:ISOdate"]},"scribunto":{"limitreport-timeusage":{"value":"0.035","limit":"10.000"},"limitreport-memusage":{"value":1032215,"limit":52428800}},"cachereport":{"origin":"mw1432","timestamp":"20211009104316","ttl":1814400,"transientcontent":false}}});});</script>
-<script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"ImageObject","contentUrl":"https:\/\/upload.wikimedia.org\/wikipedia\/commons\/d\/d4\/Italian_traffic_signs_-_fine_pista_ciclabile_contigua_al_marciapiede.svg","license":"https:\/\/commons.wikimedia.org\/wiki\/Help:Public_domain","acquireLicensePage":"\/\/commons.wikimedia.org\/wiki\/File:Italian_traffic_signs_-_fine_pista_ciclabile_contigua_al_marciapiede.svg","uploadDate":"2021-03-11 08:27:28"}</script>
-<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":209,"wgHostname":"mw1434"});});</script>
-</body></html>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   version="1.0"
+   width="200"
+   height="200"
+   id="svg2"
+   sodipodi:version="0.32"
+   inkscape:version="1.1 (c68e22c387, 2021-05-23)"
+   sodipodi:docname="ciclabile_pedonale_contigua_fine.svg"
+   inkscape:output_extension="org.inkscape.output.svg.inkscape"
+   sodipodi:modified="true"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <metadata
+     id="metadata9">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <cc:license
+           rdf:resource="http://creativecommons.org/publicdomain/zero/1.0/" />
+      </cc:Work>
+      <cc:License
+         rdf:about="http://creativecommons.org/publicdomain/zero/1.0/">
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Reproduction" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Distribution" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#DerivativeWorks" />
+      </cc:License>
+    </rdf:RDF>
+  </metadata>
+  <sodipodi:namedview
+     inkscape:window-height="1001"
+     inkscape:window-width="1920"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     guidetolerance="10.0"
+     gridtolerance="10.0"
+     objecttolerance="10.0"
+     borderopacity="1.0"
+     bordercolor="#666666"
+     pagecolor="#ffffff"
+     id="base"
+     inkscape:zoom="3.9150001"
+     inkscape:cx="100.12771"
+     inkscape:cy="99.999997"
+     inkscape:window-x="-9"
+     inkscape:window-y="-9"
+     inkscape:current-layer="svg2"
+     inkscape:document-rotation="0"
+     showgrid="false"
+     inkscape:window-maximized="1"
+     inkscape:pagecheckerboard="0" />
+  <defs
+     id="defs5">
+    <foreignObject
+       requiredExtensions="http://ns.adobe.com/AdobeIllustrator/10.0/"
+       x="0"
+       y="0"
+       width="1"
+       height="1"
+       id="foreignObject1878" />
+    <foreignObject
+       id="foreignObject1884"
+       height="1"
+       width="1"
+       y="0"
+       x="0"
+       requiredExtensions="http://ns.adobe.com/AdobeIllustrator/10.0/" />
+    <marker
+       style="overflow:visible"
+       id="Arrow1Lstart"
+       refX="0.0"
+       refY="0.0"
+       orient="auto">
+      <path
+         transform="scale(0.8) translate(12.5,0)"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1.0pt"
+         d="M 0.0,0.0 L 5.0,-5.0 L -12.5,0.0 L 5.0,5.0 L 0.0,0.0 z "
+         id="path872" />
+    </marker>
+    <foreignObject
+       requiredExtensions="http://ns.adobe.com/AdobeIllustrator/10.0/"
+       x="0"
+       y="0"
+       width="1"
+       height="1"
+       id="foreignObject1878" />
+  </defs>
+  <path
+     d="M 170.70231,29.297691 C 209.76127,68.343582 209.76657,131.66171 170.71415,170.71414 C 131.66172,209.76657 68.343582,209.76127 29.297692,170.7023 C -9.7612781,131.65641 -9.7665681,68.338287 29.285852,29.285857 C 68.338282,-9.7665708 131.65642,-9.7612744 170.70231,29.297691 L 170.70231,29.297691 z "
+     style="fill:black;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:6.5;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
+     id="path1873" />
+  <path
+     d="M 170.00359,29.99639 C 208.6655,68.658302 208.6655,131.34164 170.00359,170.00356 C 131.34168,208.66547 68.65833,208.66547 29.99642,170.00356 C -8.66549,131.34164 -8.66549,68.658303 29.99642,29.99639 C 68.65834,-8.6655237 131.34168,-8.6655237 170.00359,29.99639 L 170.00359,29.99639 z "
+     style="fill:white;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:6.5;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
+     id="path1875" />
+  <path
+     d="M 168.58912,31.410959 C 206.47,69.291836 206.47,130.70886 168.58912,168.58974 C 130.70823,206.47063 69.29121,206.47062 31.41033,168.58975 C -6.47054,130.70887 -6.47055,69.291849 31.41034,31.410962 C 69.29122,-6.4699238 130.70824,-6.4699183 168.58912,31.410959 z "
+     style="fill:#00408b;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:6.5;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
+     id="path1877" />
+  <g
+     id="g1922"
+     transform="matrix(1.043183,0,0,1.043183,-45.45073,0.989715)"
+     style="fill:white" />
+  <path
+     style="fill:white;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     d="M 138.61311,79.316874 C 138.06141,79.316873 137.57666,79.434926 137.16509,79.669094 C 136.75352,79.903259 136.43347,80.266742 136.28454,80.667049 C 135.98669,81.467666 136.16581,82.278975 136.40195,83.015181 C 136.79158,84.22992 137.34492,84.984697 137.57602,85.343744 L 131.96007,95.010219 C 130.06735,94.012995 127.90648,93.444798 125.62011,93.444798 C 118.1033,93.444798 112.00095,99.547155 112.00095,107.06397 C 112.00095,114.58078 118.1033,120.68312 125.62011,120.68313 C 133.13693,120.68313 139.23928,114.58077 139.23928,107.06397 C 139.23928,102.42717 136.91265,98.331206 133.36895,95.871202 L 135.28659,92.544681 L 150.86253,105.08762 C 150.6532,105.47172 150.5439,105.91388 150.56901,106.35953 L 150.68642,108.88377 C 150.75957,110.2184 151.91439,111.25032 153.2498,111.19276 L 162.56406,110.72314 C 164.16453,116.46454 169.4255,120.68312 175.67445,120.68313 C 183.19127,120.68313 189.29362,114.58077 189.29362,107.06397 C 189.29362,99.547155 183.19127,93.444798 175.67445,93.444798 C 173.43507,93.444798 171.31625,93.992252 169.45191,94.951517 L 165.91015,89.120321 L 167.96475,85.656828 C 168.22612,85.686384 168.47282,85.717601 168.7279,85.715534 C 169.76498,85.707107 170.74219,85.162324 171.29128,84.463196 C 171.42854,84.288412 171.57432,84.114559 171.62393,83.876163 C 171.67352,83.637766 171.61423,83.337323 171.44782,83.11302 C 171.11497,82.664416 170.59277,82.545554 169.86283,82.545555 C 167.71131,82.545555 165.70496,82.849172 163.62071,83.367401 C 163.36894,83.407807 163.20437,83.621561 163.19022,83.876163 C 163.17608,84.130763 163.31625,84.356015 163.56201,84.42406 C 164.44928,84.72855 165.35047,85.087543 166.26236,85.343744 L 164.24688,88.748536 L 137.45861,88.748536 L 139.20014,85.774236 C 139.352,85.507349 139.33089,85.188614 139.16101,84.932822 C 139.161,84.932824 138.33562,83.654495 137.96737,82.506419 C 137.78325,81.93238 137.74309,81.43615 137.81083,81.254082 C 137.8447,81.163049 137.87518,81.130421 137.96737,81.077973 C 138.05956,81.025521 138.25709,80.960566 138.61311,80.960566 L 146.00972,80.960566 C 146.46422,80.960564 146.83157,80.59322 146.83157,80.13872 C 146.83157,79.684221 146.46422,79.316874 146.00972,79.316874 L 138.61311,79.316874 z M 136.55849,90.372658 L 163.26849,90.372658 L 155.22614,103.91355 L 153.19109,103.75701 C 153.10079,103.752 152.98787,103.752 152.89758,103.75701 C 152.60274,103.76887 152.33497,103.85441 152.07573,103.97226 L 136.10843,91.096669 L 136.55849,90.372658 z M 164.97089,90.685747 L 168.04303,95.773362 C 165.12996,97.747057 163.01945,100.82934 162.30967,104.40275 L 157.00681,104.03096 L 164.97089,90.685747 z M 125.62011,95.655959 C 127.50962,95.655959 129.29424,96.113228 130.86427,96.92786 L 126.03103,105.24417 C 125.90753,105.21888 125.7902,105.18546 125.65925,105.18546 C 124.61164,105.18546 123.76118,106.03593 123.76118,107.08353 C 123.76118,108.13115 124.61164,109.00118 125.65925,109.00118 C 126.70686,109.00118 127.55732,108.13115 127.55732,107.08353 C 127.55732,106.77492 127.49253,106.49978 127.36164,106.24212 L 132.25358,97.788844 C 135.14451,99.85924 137.02812,103.24034 137.02812,107.06397 C 137.02812,113.3601 131.91625,118.47197 125.62011,118.47197 C 119.32398,118.47197 114.21211,113.3601 114.21211,107.06397 C 114.21211,100.76783 119.32398,95.655959 125.62011,95.655959 z M 175.67445,95.655959 C 181.97059,95.655959 187.08246,100.76783 187.08246,107.06397 C 187.08246,113.3601 181.97059,118.47197 175.67445,118.47197 C 170.62405,118.47197 166.33318,115.17646 164.83391,110.6253 L 174.57866,110.1361 L 174.91131,110.1361 C 176.24732,110.12893 177.348,109.04571 177.35728,107.7097 C 177.36447,106.67431 176.70615,105.79552 175.79186,105.43984 L 170.58684,96.849589 C 172.11848,96.08462 173.84737,95.655959 175.67445,95.655959 z M 169.19752,97.691004 L 173.73724,105.18546 L 164.54039,104.5593 C 165.17933,101.72557 166.88259,99.292914 169.19752,97.691004 z "
+     id="path2053" />
+  <path
+     style="fill:white;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:6.19999981;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     d="M 100 3 C 98.593462 3 97.186718 3.0329459 95.78125 3.09375 L 95.78125 196.90625 C 98.592186 197.02786 101.40781 197.02786 104.21875 196.90625 L 104.21875 3.09375 C 102.81328 3.0329458 101.40654 3 100 3 z "
+     id="rect1939" />
+  <g
+     id="g977"
+     transform="matrix(-0.84586718,0,0,0.84586718,251.80223,62.012287)"
+     style="stroke:none;stroke-width:1.18222">
+    <path
+       id="path13005-2"
+       style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1.18222;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:markers fill stroke"
+       d="m 255.44907,80.636145 -19.46725,-39.7319 1.91098,-6.66781 10.81284,12.29764 c 3.42327,3.02458 8.58567,-2.16532 5.19677,-5.55421 L 234.717,18.948585 c -2.12408,-1.4779 -3.05895,-2.01408 -5.18989,-3.13455 -2.41279,-1.1136 -2.92147,-0.93486 -5.1899,1.12047 l -17.16446,17.30193 c -0.61178,0.65304 -0.82487,0.50868 -1.07922,1.98659 v 8.61316 c 0,3.74635 7.10089,3.71198 7.14212,-0.0756 l -0.10997,-6.05602 6.34472,-6.12476 2.52277,7.24523 c -5.36862,14.27736 -9.73362,27.21428 -15.06788,41.49852 -2.41965,6.73655 5.83606,10.02233 9.15622,3.492 l 13.37685,-35.54562 c 5.98041,12.22204 11.31466,23.79103 17.33631,35.97868 3.42326,6.31036 11.93331,1.44354 8.6544,-4.61247" />
+    <path
+       id="path13013-1"
+       style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1.18222;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:markers fill stroke"
+       d="m 234.10521,0.81489523 c -3.56762,0 -6.45471,2.92145997 -6.45471,6.48908997 0,3.5676198 2.88709,6.4890798 6.45471,6.4890798 3.56762,0 6.48909,-2.92146 6.48909,-6.4890798 0,-3.56763 -2.92147,-6.48908997 -6.48909,-6.48908997" />
+  </g>
+  <path
+     style="fill:#d40000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     d="M 159.269,23.425246 23.425247,159.26899 c 5.44651,7.2166 11.87715,13.64724 19.09375,19.09375 L 178.36275,42.518995 C 172.91624,35.302395 166.4856,28.871757 159.269,23.425246 Z"
+     id="rect1884" />
+</svg>

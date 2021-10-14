@@ -2,24 +2,22 @@
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
 
 <svg
-   xmlns:i="http://ns.adobe.com/AdobeIllustrator/10.0/"
-   xmlns:dc="http://purl.org/dc/elements/1.1/"
-   xmlns:cc="http://creativecommons.org/ns#"
-   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-   xmlns:svg="http://www.w3.org/2000/svg"
-   xmlns="http://www.w3.org/2000/svg"
-   xmlns:xlink="http://www.w3.org/1999/xlink"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    version="1.0"
    width="100.10065"
    height="39.235321"
    id="svg2"
    sodipodi:version="0.32"
-   inkscape:version="0.47 r22583"
-   sodipodi:docname="Italian traffic signs - freccia.svg"
+   inkscape:version="1.1 (c68e22c387, 2021-05-23)"
+   sodipodi:docname="inizio_orizz.svg"
    inkscape:output_extension="org.inkscape.output.svg.inkscape"
-   sodipodi:modified="true">
+   sodipodi:modified="true"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
   <metadata
      id="metadata9">
     <rdf:RDF>
@@ -28,13 +26,23 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <cc:license
+           rdf:resource="http://creativecommons.org/publicdomain/zero/1.0/" />
       </cc:Work>
+      <cc:License
+         rdf:about="http://creativecommons.org/publicdomain/zero/1.0/">
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Reproduction" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Distribution" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#DerivativeWorks" />
+      </cc:License>
     </rdf:RDF>
   </metadata>
   <sodipodi:namedview
-     inkscape:window-height="838"
-     inkscape:window-width="1600"
+     inkscape:window-height="1001"
+     inkscape:window-width="1920"
      inkscape:pageshadow="2"
      inkscape:pageopacity="0.0"
      guidetolerance="10.0"
@@ -44,14 +52,15 @@
      bordercolor="#666666"
      pagecolor="#ffffff"
      id="base"
-     inkscape:zoom="2.7549601"
-     inkscape:cx="26.681133"
-     inkscape:cy="28.380328"
-     inkscape:window-x="-8"
-     inkscape:window-y="-8"
+     inkscape:zoom="10.409523"
+     inkscape:cx="50.050323"
+     inkscape:cy="19.645472"
+     inkscape:window-x="-9"
+     inkscape:window-y="-9"
      inkscape:current-layer="svg2"
      showgrid="false"
-     inkscape:window-maximized="1" />
+     inkscape:window-maximized="1"
+     inkscape:pagecheckerboard="0" />
   <defs
      id="defs5">
     <inkscape:perspective
@@ -67,40 +76,28 @@
        y="0"
        width="1"
        height="1"
-       id="foreignObject1878">
-      <i:pgfRef
-         xlink:href="#adobe_illustrator_pgf" />
-    </foreignObject>
+       id="foreignObject1878" />
     <foreignObject
        id="foreignObject1894"
        height="1"
        width="1"
        y="0"
        x="0"
-       requiredExtensions="http://ns.adobe.com/AdobeIllustrator/10.0/">
-      <i:pgfRef
-         xlink:href="#adobe_illustrator_pgf" />
-    </foreignObject>
+       requiredExtensions="http://ns.adobe.com/AdobeIllustrator/10.0/" />
     <foreignObject
        id="foreignObject13518"
        height="1"
        width="1"
        y="0"
        x="0"
-       requiredExtensions="http://ns.adobe.com/AdobeIllustrator/10.0/">
-      <i:pgfRef
-         xlink:href="#adobe_illustrator_pgf" />
-    </foreignObject>
+       requiredExtensions="http://ns.adobe.com/AdobeIllustrator/10.0/" />
     <foreignObject
        id="foreignObject2175"
        height="1"
        width="1"
        y="0"
        x="0"
-       requiredExtensions="http://ns.adobe.com/AdobeIllustrator/10.0/">
-      <i:pgfRef
-         xlink:href="#adobe_illustrator_pgf" />
-    </foreignObject>
+       requiredExtensions="http://ns.adobe.com/AdobeIllustrator/10.0/" />
     <inkscape:perspective
        id="perspective2855"
        inkscape:persp3d-origin="0.5 : 0.33333333 : 1"

@@ -2,25 +2,28 @@
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
 
 <svg
-   xmlns:i="http://ns.adobe.com/AdobeIllustrator/10.0/"
-   xmlns:dc="http://purl.org/dc/elements/1.1/"
-   xmlns:cc="http://creativecommons.org/ns#"
-   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-   xmlns:svg="http://www.w3.org/2000/svg"
-   xmlns="http://www.w3.org/2000/svg"
-   xmlns:xlink="http://www.w3.org/1999/xlink"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    id="svg2816"
    version="1.1"
-   inkscape:version="0.48.4 r9939"
+   inkscape:version="1.1 (c68e22c387, 2021-05-23)"
    width="199.00044"
    height="174.8741"
    xml:space="preserve"
-   sodipodi:docname="AJAX1.svg"><metadata
+   sodipodi:docname="lavori.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/"><metadata
      id="metadata2822"><rdf:RDF><cc:Work
          rdf:about=""><dc:format>image/svg+xml</dc:format><dc:type
-           rdf:resource="http://purl.org/dc/dcmitype/StillImage" /><dc:title /></cc:Work></rdf:RDF></metadata><defs
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" /><cc:license
+           rdf:resource="http://creativecommons.org/publicdomain/zero/1.0/" /></cc:Work><cc:License
+         rdf:about="http://creativecommons.org/publicdomain/zero/1.0/"><cc:permits
+           rdf:resource="http://creativecommons.org/ns#Reproduction" /><cc:permits
+           rdf:resource="http://creativecommons.org/ns#Distribution" /><cc:permits
+           rdf:resource="http://creativecommons.org/ns#DerivativeWorks" /></cc:License></rdf:RDF></metadata><defs
      id="defs2820"><inkscape:perspective
        sodipodi:type="inkscape:persp3d"
        inkscape:vp_x="0 : 0.5 : 1"
@@ -418,8 +421,7 @@
        requiredExtensions="http://ns.adobe.com/AdobeIllustrator/10.0/"
        height="1"
        width="1"
-       id="foreignObject1878"><i:pgfRef
-         xlink:href="#adobe_illustrator_pgf" /></foreignObject><inkscape:perspective
+       id="foreignObject1878" /><inkscape:perspective
        inkscape:vp_x="0 : 100 : 1"
        inkscape:vp_y="0 : 1000 : 0"
        inkscape:vp_z="200 : 100 : 1"
@@ -440,21 +442,22 @@
      guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-width="1280"
-     inkscape:window-height="1004"
+     inkscape:window-width="1920"
+     inkscape:window-height="1001"
      id="namedview2818"
      showgrid="false"
-     inkscape:zoom="2.140677"
-     inkscape:cx="74.688734"
-     inkscape:cy="55.231403"
-     inkscape:window-x="-8"
-     inkscape:window-y="-8"
+     inkscape:zoom="4.477507"
+     inkscape:cx="99.609002"
+     inkscape:cy="87.43705"
+     inkscape:window-x="-9"
+     inkscape:window-y="-9"
      inkscape:window-maximized="1"
      inkscape:current-layer="layer1-2"
      fit-margin-top="0"
      fit-margin-left="0"
      fit-margin-right="0"
-     fit-margin-bottom="0" /><g
+     fit-margin-bottom="0"
+     inkscape:pagecheckerboard="0" /><g
      id="g2826"
      inkscape:groupmode="layer"
      inkscape:label="Catalogo"
@@ -474,12 +477,13 @@
    xml:space="preserve"
    y="682.42792"
    x="-111.17932"
-   style="font-size:144px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
+   style="font-style:normal;font-weight:normal;line-height:0%;font-family:'Bitstream Vera Sans';fill:#000000;fill-opacity:1;stroke:none"
    id="text4615"><tspan
      y="682.42792"
      x="-111.17932"
      sodipodi:role="line"
-     id="tspan4617" /></text>
+     id="tspan4617"
+     style="font-size:144px;line-height:1.25"> </tspan></text>
 
 <path
    d="m 698.28947,1299.2669 c -3.3797,0 -6.5027,-1.8031 -8.1926,-4.73 -1.6899,-2.9269 -1.6899,-6.5331 0,-9.46 l 90.04,-155.954 c 1.6898,-2.9269 4.8128,-4.73 8.1926,-4.73 3.3797,0 6.5027,1.8031 8.1926,4.73 l 90.0404,155.954 c 1.6899,2.927 1.6899,6.5331 0,9.46 -1.6899,2.927 -4.8129,4.7301 -8.1926,4.7301 l -180.08,0 z"
