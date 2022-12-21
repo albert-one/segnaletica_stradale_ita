@@ -71,7 +71,6 @@
           <Option type="QString" value="255,0,0,255" name="color"/>
           <Option type="QString" value="0" name="fixedAspectRatio"/>
           <Option type="QString" value="1" name="horizontal_anchor_point"/>
-          <Option type="QString" value="P:/GIT/segnaletica_stradale_ita/collections/segnaletica_stradale/animali_domestici.svg" name="name"/>
           <Option type="QString" value="0,0" name="offset"/>
           <Option type="QString" value="3x:0,0,0,0,0,0" name="offset_map_unit_scale"/>
           <Option type="QString" value="MM" name="offset_unit"/>
@@ -90,7 +89,6 @@
         <prop k="color" v="255,0,0,255"/>
         <prop k="fixedAspectRatio" v="0"/>
         <prop k="horizontal_anchor_point" v="1"/>
-        <prop k="name" v="P:/GIT/segnaletica_stradale_ita/collections/segnaletica_stradale/animali_domestici.svg"/>
         <prop k="offset" v="0,0"/>
         <prop k="offset_map_unit_scale" v="3x:0,0,0,0,0,0"/>
         <prop k="offset_unit" v="MM"/>
@@ -127,7 +125,6 @@
           <Option type="QString" value="255,0,0,255" name="color"/>
           <Option type="QString" value="0" name="fixedAspectRatio"/>
           <Option type="QString" value="1" name="horizontal_anchor_point"/>
-          <Option type="QString" value="P:/GIT/segnaletica_stradale_ita/collections/segnaletica_stradale/animali_selvatici.svg" name="name"/>
           <Option type="QString" value="0,0" name="offset"/>
           <Option type="QString" value="3x:0,0,0,0,0,0" name="offset_map_unit_scale"/>
           <Option type="QString" value="MM" name="offset_unit"/>
@@ -146,7 +143,6 @@
         <prop k="color" v="255,0,0,255"/>
         <prop k="fixedAspectRatio" v="0"/>
         <prop k="horizontal_anchor_point" v="1"/>
-        <prop k="name" v="P:/GIT/segnaletica_stradale_ita/collections/segnaletica_stradale/animali_selvatici.svg"/>
         <prop k="offset" v="0,0"/>
         <prop k="offset_map_unit_scale" v="3x:0,0,0,0,0,0"/>
         <prop k="offset_unit" v="MM"/>
@@ -183,7 +179,6 @@
           <Option type="QString" value="255,0,0,255" name="color"/>
           <Option type="QString" value="0" name="fixedAspectRatio"/>
           <Option type="QString" value="1" name="horizontal_anchor_point"/>
-          <Option type="QString" value="P:/GIT/segnaletica_stradale_ita/collections/segnaletica_stradale/area_pedonale.svg" name="name"/>
           <Option type="QString" value="0,0" name="offset"/>
           <Option type="QString" value="3x:0,0,0,0,0,0" name="offset_map_unit_scale"/>
           <Option type="QString" value="MM" name="offset_unit"/>
@@ -202,7 +197,6 @@
         <prop k="color" v="255,0,0,255"/>
         <prop k="fixedAspectRatio" v="0"/>
         <prop k="horizontal_anchor_point" v="1"/>
-        <prop k="name" v="P:/GIT/segnaletica_stradale_ita/collections/segnaletica_stradale/area_pedonale.svg"/>
         <prop k="offset" v="0,0"/>
         <prop k="offset_map_unit_scale" v="3x:0,0,0,0,0,0"/>
         <prop k="offset_unit" v="MM"/>
@@ -239,7 +233,6 @@
           <Option type="QString" value="255,0,0,255" name="color"/>
           <Option type="QString" value="0" name="fixedAspectRatio"/>
           <Option type="QString" value="1" name="horizontal_anchor_point"/>
-          <Option type="QString" value="P:/GIT/segnaletica_stradale_ita/collections/segnaletica_stradale/attr_pedonale.svg" name="name"/>
           <Option type="QString" value="0,0" name="offset"/>
           <Option type="QString" value="3x:0,0,0,0,0,0" name="offset_map_unit_scale"/>
           <Option type="QString" value="MM" name="offset_unit"/>
@@ -258,7 +251,6 @@
         <prop k="color" v="255,0,0,255"/>
         <prop k="fixedAspectRatio" v="0"/>
         <prop k="horizontal_anchor_point" v="1"/>
-        <prop k="name" v="P:/GIT/segnaletica_stradale_ita/collections/segnaletica_stradale/attr_pedonale.svg"/>
         <prop k="offset" v="0,0"/>
         <prop k="offset_map_unit_scale" v="3x:0,0,0,0,0,0"/>
         <prop k="offset_unit" v="MM"/>
@@ -295,7 +287,6 @@
           <Option type="QString" value="255,0,0,255" name="color"/>
           <Option type="QString" value="0" name="fixedAspectRatio"/>
           <Option type="QString" value="1" name="horizontal_anchor_point"/>
-          <Option type="QString" value="P:/GIT/segnaletica_stradale_ita/collections/segnaletica_stradale/attr_ciclabile.svg" name="name"/>
           <Option type="QString" value="0,0" name="offset"/>
           <Option type="QString" value="3x:0,0,0,0,0,0" name="offset_map_unit_scale"/>
           <Option type="QString" value="MM" name="offset_unit"/>
@@ -314,7 +305,6 @@
         <prop k="color" v="255,0,0,255"/>
         <prop k="fixedAspectRatio" v="0"/>
         <prop k="horizontal_anchor_point" v="1"/>
-        <prop k="name" v="P:/GIT/segnaletica_stradale_ita/collections/segnaletica_stradale/attr_ciclabile.svg"/>
         <prop k="offset" v="0,0"/>
         <prop k="offset_map_unit_scale" v="3x:0,0,0,0,0,0"/>
         <prop k="offset_unit" v="MM"/>
@@ -351,7 +341,6 @@
           <Option type="QString" value="255,0,0,255" name="color"/>
           <Option type="QString" value="0" name="fixedAspectRatio"/>
           <Option type="QString" value="1" name="horizontal_anchor_point"/>
-          <Option type="QString" value="P:/GIT/segnaletica_stradale_ita/collections/segnaletica_stradale/bambini.svg" name="name"/>
           <Option type="QString" value="0,0" name="offset"/>
           <Option type="QString" value="3x:0,0,0,0,0,0" name="offset_map_unit_scale"/>
           <Option type="QString" value="MM" name="offset_unit"/>
@@ -370,7 +359,6 @@
         <prop k="color" v="255,0,0,255"/>
         <prop k="fixedAspectRatio" v="0"/>
         <prop k="horizontal_anchor_point" v="1"/>
-        <prop k="name" v="P:/GIT/segnaletica_stradale_ita/collections/segnaletica_stradale/bambini.svg"/>
         <prop k="offset" v="0,0"/>
         <prop k="offset_map_unit_scale" v="3x:0,0,0,0,0,0"/>
         <prop k="offset_unit" v="MM"/>
@@ -407,7 +395,6 @@
           <Option type="QString" value="255,0,0,255" name="color"/>
           <Option type="QString" value="0" name="fixedAspectRatio"/>
           <Option type="QString" value="1" name="horizontal_anchor_point"/>
-          <Option type="QString" value="P:/GIT/segnaletica_stradale_ita/collections/segnaletica_stradale/banchina_pericolosa.svg" name="name"/>
           <Option type="QString" value="0,0" name="offset"/>
           <Option type="QString" value="3x:0,0,0,0,0,0" name="offset_map_unit_scale"/>
           <Option type="QString" value="MM" name="offset_unit"/>
@@ -426,7 +413,6 @@
         <prop k="color" v="255,0,0,255"/>
         <prop k="fixedAspectRatio" v="0"/>
         <prop k="horizontal_anchor_point" v="1"/>
-        <prop k="name" v="P:/GIT/segnaletica_stradale_ita/collections/segnaletica_stradale/banchina_pericolosa.svg"/>
         <prop k="offset" v="0,0"/>
         <prop k="offset_map_unit_scale" v="3x:0,0,0,0,0,0"/>
         <prop k="offset_unit" v="MM"/>
@@ -463,7 +449,6 @@
           <Option type="QString" value="255,0,0,255" name="color"/>
           <Option type="QString" value="0" name="fixedAspectRatio"/>
           <Option type="QString" value="1" name="horizontal_anchor_point"/>
-          <Option type="QString" value="P:/GIT/segnaletica_stradale_ita/collections/segnaletica_stradale/caduta_massi_dx.svg" name="name"/>
           <Option type="QString" value="0,0" name="offset"/>
           <Option type="QString" value="3x:0,0,0,0,0,0" name="offset_map_unit_scale"/>
           <Option type="QString" value="MM" name="offset_unit"/>
@@ -482,7 +467,6 @@
         <prop k="color" v="255,0,0,255"/>
         <prop k="fixedAspectRatio" v="0"/>
         <prop k="horizontal_anchor_point" v="1"/>
-        <prop k="name" v="P:/GIT/segnaletica_stradale_ita/collections/segnaletica_stradale/caduta_massi_dx.svg"/>
         <prop k="offset" v="0,0"/>
         <prop k="offset_map_unit_scale" v="3x:0,0,0,0,0,0"/>
         <prop k="offset_unit" v="MM"/>
@@ -519,7 +503,6 @@
           <Option type="QString" value="255,0,0,255" name="color"/>
           <Option type="QString" value="0" name="fixedAspectRatio"/>
           <Option type="QString" value="1" name="horizontal_anchor_point"/>
-          <Option type="QString" value="P:/GIT/segnaletica_stradale_ita/collections/segnaletica_stradale/caduta_massi_sx.svg" name="name"/>
           <Option type="QString" value="0,0" name="offset"/>
           <Option type="QString" value="3x:0,0,0,0,0,0" name="offset_map_unit_scale"/>
           <Option type="QString" value="MM" name="offset_unit"/>
@@ -538,7 +521,6 @@
         <prop k="color" v="255,0,0,255"/>
         <prop k="fixedAspectRatio" v="0"/>
         <prop k="horizontal_anchor_point" v="1"/>
-        <prop k="name" v="P:/GIT/segnaletica_stradale_ita/collections/segnaletica_stradale/caduta_massi_sx.svg"/>
         <prop k="offset" v="0,0"/>
         <prop k="offset_map_unit_scale" v="3x:0,0,0,0,0,0"/>
         <prop k="offset_unit" v="MM"/>
@@ -575,7 +557,6 @@
           <Option type="QString" value="255,0,0,255" name="color"/>
           <Option type="QString" value="0" name="fixedAspectRatio"/>
           <Option type="QString" value="1" name="horizontal_anchor_point"/>
-          <Option type="QString" value="P:/GIT/segnaletica_stradale_ita/collections/segnaletica_stradale/catene_obbligatorie.svg" name="name"/>
           <Option type="QString" value="0,0" name="offset"/>
           <Option type="QString" value="3x:0,0,0,0,0,0" name="offset_map_unit_scale"/>
           <Option type="QString" value="MM" name="offset_unit"/>
@@ -594,7 +575,6 @@
         <prop k="color" v="255,0,0,255"/>
         <prop k="fixedAspectRatio" v="0"/>
         <prop k="horizontal_anchor_point" v="1"/>
-        <prop k="name" v="P:/GIT/segnaletica_stradale_ita/collections/segnaletica_stradale/catene_obbligatorie.svg"/>
         <prop k="offset" v="0,0"/>
         <prop k="offset_map_unit_scale" v="3x:0,0,0,0,0,0"/>
         <prop k="offset_unit" v="MM"/>
@@ -631,7 +611,6 @@
           <Option type="QString" value="255,0,0,255" name="color"/>
           <Option type="QString" value="0" name="fixedAspectRatio"/>
           <Option type="QString" value="1" name="horizontal_anchor_point"/>
-          <Option type="QString" value="P:/GIT/segnaletica_stradale_ita/collections/segnaletica_stradale/centro_ab.svg" name="name"/>
           <Option type="QString" value="0,0" name="offset"/>
           <Option type="QString" value="3x:0,0,0,0,0,0" name="offset_map_unit_scale"/>
           <Option type="QString" value="MM" name="offset_unit"/>
@@ -650,7 +629,6 @@
         <prop k="color" v="255,0,0,255"/>
         <prop k="fixedAspectRatio" v="0"/>
         <prop k="horizontal_anchor_point" v="1"/>
-        <prop k="name" v="P:/GIT/segnaletica_stradale_ita/collections/segnaletica_stradale/centro_ab.svg"/>
         <prop k="offset" v="0,0"/>
         <prop k="offset_map_unit_scale" v="3x:0,0,0,0,0,0"/>
         <prop k="offset_unit" v="MM"/>
@@ -687,7 +665,6 @@
           <Option type="QString" value="255,0,0,255" name="color"/>
           <Option type="QString" value="0" name="fixedAspectRatio"/>
           <Option type="QString" value="1" name="horizontal_anchor_point"/>
-          <Option type="QString" value="P:/GIT/segnaletica_stradale_ita/collections/segnaletica_stradale/centro_ab_fine.svg" name="name"/>
           <Option type="QString" value="0,0" name="offset"/>
           <Option type="QString" value="3x:0,0,0,0,0,0" name="offset_map_unit_scale"/>
           <Option type="QString" value="MM" name="offset_unit"/>
@@ -706,7 +683,6 @@
         <prop k="color" v="255,0,0,255"/>
         <prop k="fixedAspectRatio" v="0"/>
         <prop k="horizontal_anchor_point" v="1"/>
-        <prop k="name" v="P:/GIT/segnaletica_stradale_ita/collections/segnaletica_stradale/centro_ab_fine.svg"/>
         <prop k="offset" v="0,0"/>
         <prop k="offset_map_unit_scale" v="3x:0,0,0,0,0,0"/>
         <prop k="offset_unit" v="MM"/>
@@ -743,7 +719,6 @@
           <Option type="QString" value="255,0,0,255" name="color"/>
           <Option type="QString" value="0" name="fixedAspectRatio"/>
           <Option type="QString" value="1" name="horizontal_anchor_point"/>
-          <Option type="QString" value="P:/GIT/segnaletica_stradale_ita/collections/segnaletica_stradale/ciclabile_pedonale_contigua.svg" name="name"/>
           <Option type="QString" value="0,0" name="offset"/>
           <Option type="QString" value="3x:0,0,0,0,0,0" name="offset_map_unit_scale"/>
           <Option type="QString" value="MM" name="offset_unit"/>
@@ -762,7 +737,6 @@
         <prop k="color" v="255,0,0,255"/>
         <prop k="fixedAspectRatio" v="0"/>
         <prop k="horizontal_anchor_point" v="1"/>
-        <prop k="name" v="P:/GIT/segnaletica_stradale_ita/collections/segnaletica_stradale/ciclabile_pedonale_contigua.svg"/>
         <prop k="offset" v="0,0"/>
         <prop k="offset_map_unit_scale" v="3x:0,0,0,0,0,0"/>
         <prop k="offset_unit" v="MM"/>
@@ -799,7 +773,6 @@
           <Option type="QString" value="255,0,0,255" name="color"/>
           <Option type="QString" value="0" name="fixedAspectRatio"/>
           <Option type="QString" value="1" name="horizontal_anchor_point"/>
-          <Option type="QString" value="P:/GIT/segnaletica_stradale_ita/collections/segnaletica_stradale/ciclabile_pedonale_contigua_fine.svg" name="name"/>
           <Option type="QString" value="0,0" name="offset"/>
           <Option type="QString" value="3x:0,0,0,0,0,0" name="offset_map_unit_scale"/>
           <Option type="QString" value="MM" name="offset_unit"/>
@@ -818,7 +791,6 @@
         <prop k="color" v="255,0,0,255"/>
         <prop k="fixedAspectRatio" v="0"/>
         <prop k="horizontal_anchor_point" v="1"/>
-        <prop k="name" v="P:/GIT/segnaletica_stradale_ita/collections/segnaletica_stradale/ciclabile_pedonale_contigua_fine.svg"/>
         <prop k="offset" v="0,0"/>
         <prop k="offset_map_unit_scale" v="3x:0,0,0,0,0,0"/>
         <prop k="offset_unit" v="MM"/>
@@ -855,7 +827,6 @@
           <Option type="QString" value="255,0,0,255" name="color"/>
           <Option type="QString" value="0" name="fixedAspectRatio"/>
           <Option type="QString" value="1" name="horizontal_anchor_point"/>
-          <Option type="QString" value="P:/GIT/segnaletica_stradale_ita/collections/segnaletica_stradale/ciclabile_pedonale_mista.svg" name="name"/>
           <Option type="QString" value="0,0" name="offset"/>
           <Option type="QString" value="3x:0,0,0,0,0,0" name="offset_map_unit_scale"/>
           <Option type="QString" value="MM" name="offset_unit"/>
@@ -874,7 +845,6 @@
         <prop k="color" v="255,0,0,255"/>
         <prop k="fixedAspectRatio" v="0"/>
         <prop k="horizontal_anchor_point" v="1"/>
-        <prop k="name" v="P:/GIT/segnaletica_stradale_ita/collections/segnaletica_stradale/ciclabile_pedonale_mista.svg"/>
         <prop k="offset" v="0,0"/>
         <prop k="offset_map_unit_scale" v="3x:0,0,0,0,0,0"/>
         <prop k="offset_unit" v="MM"/>
@@ -911,7 +881,6 @@
           <Option type="QString" value="255,0,0,255" name="color"/>
           <Option type="QString" value="0" name="fixedAspectRatio"/>
           <Option type="QString" value="1" name="horizontal_anchor_point"/>
-          <Option type="QString" value="P:/GIT/segnaletica_stradale_ita/collections/segnaletica_stradale/ciclabile_pedonale_mista_fine.svg" name="name"/>
           <Option type="QString" value="0,0" name="offset"/>
           <Option type="QString" value="3x:0,0,0,0,0,0" name="offset_map_unit_scale"/>
           <Option type="QString" value="MM" name="offset_unit"/>
@@ -930,7 +899,6 @@
         <prop k="color" v="255,0,0,255"/>
         <prop k="fixedAspectRatio" v="0"/>
         <prop k="horizontal_anchor_point" v="1"/>
-        <prop k="name" v="P:/GIT/segnaletica_stradale_ita/collections/segnaletica_stradale/ciclabile_pedonale_mista_fine.svg"/>
         <prop k="offset" v="0,0"/>
         <prop k="offset_map_unit_scale" v="3x:0,0,0,0,0,0"/>
         <prop k="offset_unit" v="MM"/>
@@ -967,7 +935,6 @@
           <Option type="QString" value="255,0,0,255" name="color"/>
           <Option type="QString" value="0" name="fixedAspectRatio"/>
           <Option type="QString" value="1" name="horizontal_anchor_point"/>
-          <Option type="QString" value="P:/GIT/segnaletica_stradale_ita/collections/segnaletica_stradale/confine_terr.svg" name="name"/>
           <Option type="QString" value="0,0" name="offset"/>
           <Option type="QString" value="3x:0,0,0,0,0,0" name="offset_map_unit_scale"/>
           <Option type="QString" value="MM" name="offset_unit"/>
@@ -986,7 +953,6 @@
         <prop k="color" v="255,0,0,255"/>
         <prop k="fixedAspectRatio" v="0"/>
         <prop k="horizontal_anchor_point" v="1"/>
-        <prop k="name" v="P:/GIT/segnaletica_stradale_ita/collections/segnaletica_stradale/confine_terr.svg"/>
         <prop k="offset" v="0,0"/>
         <prop k="offset_map_unit_scale" v="3x:0,0,0,0,0,0"/>
         <prop k="offset_unit" v="MM"/>
@@ -1023,7 +989,6 @@
           <Option type="QString" value="255,0,0,255" name="color"/>
           <Option type="QString" value="0" name="fixedAspectRatio"/>
           <Option type="QString" value="1" name="horizontal_anchor_point"/>
-          <Option type="QString" value="P:/GIT/segnaletica_stradale_ita/collections/segnaletica_stradale/confine_terr_fine.svg" name="name"/>
           <Option type="QString" value="0,0" name="offset"/>
           <Option type="QString" value="3x:0,0,0,0,0,0" name="offset_map_unit_scale"/>
           <Option type="QString" value="MM" name="offset_unit"/>
@@ -1042,7 +1007,6 @@
         <prop k="color" v="255,0,0,255"/>
         <prop k="fixedAspectRatio" v="0"/>
         <prop k="horizontal_anchor_point" v="1"/>
-        <prop k="name" v="P:/GIT/segnaletica_stradale_ita/collections/segnaletica_stradale/confine_terr_fine.svg"/>
         <prop k="offset" v="0,0"/>
         <prop k="offset_map_unit_scale" v="3x:0,0,0,0,0,0"/>
         <prop k="offset_unit" v="MM"/>
@@ -1079,7 +1043,6 @@
           <Option type="QString" value="255,0,0,255" name="color"/>
           <Option type="QString" value="0" name="fixedAspectRatio"/>
           <Option type="QString" value="1" name="horizontal_anchor_point"/>
-          <Option type="QString" value="P:/GIT/segnaletica_stradale_ita/collections/segnaletica_stradale/cunetta.svg" name="name"/>
           <Option type="QString" value="0,0" name="offset"/>
           <Option type="QString" value="3x:0,0,0,0,0,0" name="offset_map_unit_scale"/>
           <Option type="QString" value="MM" name="offset_unit"/>
@@ -1098,7 +1061,6 @@
         <prop k="color" v="255,0,0,255"/>
         <prop k="fixedAspectRatio" v="0"/>
         <prop k="horizontal_anchor_point" v="1"/>
-        <prop k="name" v="P:/GIT/segnaletica_stradale_ita/collections/segnaletica_stradale/cunetta.svg"/>
         <prop k="offset" v="0,0"/>
         <prop k="offset_map_unit_scale" v="3x:0,0,0,0,0,0"/>
         <prop k="offset_unit" v="MM"/>
@@ -1135,7 +1097,6 @@
           <Option type="QString" value="255,0,0,255" name="color"/>
           <Option type="QString" value="0" name="fixedAspectRatio"/>
           <Option type="QString" value="1" name="horizontal_anchor_point"/>
-          <Option type="QString" value="P:/GIT/segnaletica_stradale_ita/collections/segnaletica_stradale/curva_destra.svg" name="name"/>
           <Option type="QString" value="0,0" name="offset"/>
           <Option type="QString" value="3x:0,0,0,0,0,0" name="offset_map_unit_scale"/>
           <Option type="QString" value="MM" name="offset_unit"/>
@@ -1154,7 +1115,6 @@
         <prop k="color" v="255,0,0,255"/>
         <prop k="fixedAspectRatio" v="0"/>
         <prop k="horizontal_anchor_point" v="1"/>
-        <prop k="name" v="P:/GIT/segnaletica_stradale_ita/collections/segnaletica_stradale/curva_destra.svg"/>
         <prop k="offset" v="0,0"/>
         <prop k="offset_map_unit_scale" v="3x:0,0,0,0,0,0"/>
         <prop k="offset_unit" v="MM"/>
@@ -1191,7 +1151,6 @@
           <Option type="QString" value="255,0,0,255" name="color"/>
           <Option type="QString" value="0" name="fixedAspectRatio"/>
           <Option type="QString" value="1" name="horizontal_anchor_point"/>
-          <Option type="QString" value="P:/GIT/segnaletica_stradale_ita/collections/segnaletica_stradale/curva_sinistra.svg" name="name"/>
           <Option type="QString" value="0,0" name="offset"/>
           <Option type="QString" value="3x:0,0,0,0,0,0" name="offset_map_unit_scale"/>
           <Option type="QString" value="MM" name="offset_unit"/>
@@ -1210,7 +1169,6 @@
         <prop k="color" v="255,0,0,255"/>
         <prop k="fixedAspectRatio" v="0"/>
         <prop k="horizontal_anchor_point" v="1"/>
-        <prop k="name" v="P:/GIT/segnaletica_stradale_ita/collections/segnaletica_stradale/curva_sinistra.svg"/>
         <prop k="offset" v="0,0"/>
         <prop k="offset_map_unit_scale" v="3x:0,0,0,0,0,0"/>
         <prop k="offset_unit" v="MM"/>
@@ -1247,7 +1205,6 @@
           <Option type="QString" value="255,0,0,255" name="color"/>
           <Option type="QString" value="0" name="fixedAspectRatio"/>
           <Option type="QString" value="1" name="horizontal_anchor_point"/>
-          <Option type="QString" value="P:/GIT/segnaletica_stradale_ita/collections/segnaletica_stradale/direzione_obbligatoria.svg" name="name"/>
           <Option type="QString" value="0,0" name="offset"/>
           <Option type="QString" value="3x:0,0,0,0,0,0" name="offset_map_unit_scale"/>
           <Option type="QString" value="MM" name="offset_unit"/>
@@ -1266,7 +1223,6 @@
         <prop k="color" v="255,0,0,255"/>
         <prop k="fixedAspectRatio" v="0"/>
         <prop k="horizontal_anchor_point" v="1"/>
-        <prop k="name" v="P:/GIT/segnaletica_stradale_ita/collections/segnaletica_stradale/direzione_obbligatoria.svg"/>
         <prop k="offset" v="0,0"/>
         <prop k="offset_map_unit_scale" v="3x:0,0,0,0,0,0"/>
         <prop k="offset_unit" v="MM"/>
@@ -1303,7 +1259,6 @@
           <Option type="QString" value="255,0,0,255" name="color"/>
           <Option type="QString" value="0" name="fixedAspectRatio"/>
           <Option type="QString" value="1" name="horizontal_anchor_point"/>
-          <Option type="QString" value="P:/GIT/segnaletica_stradale_ita/collections/segnaletica_stradale/discesa_pericolosa.svg" name="name"/>
           <Option type="QString" value="0,0" name="offset"/>
           <Option type="QString" value="3x:0,0,0,0,0,0" name="offset_map_unit_scale"/>
           <Option type="QString" value="MM" name="offset_unit"/>
@@ -1322,7 +1277,6 @@
         <prop k="color" v="255,0,0,255"/>
         <prop k="fixedAspectRatio" v="0"/>
         <prop k="horizontal_anchor_point" v="1"/>
-        <prop k="name" v="P:/GIT/segnaletica_stradale_ita/collections/segnaletica_stradale/discesa_pericolosa.svg"/>
         <prop k="offset" v="0,0"/>
         <prop k="offset_map_unit_scale" v="3x:0,0,0,0,0,0"/>
         <prop k="offset_unit" v="MM"/>
@@ -1359,7 +1313,6 @@
           <Option type="QString" value="255,0,0,255" name="color"/>
           <Option type="QString" value="0" name="fixedAspectRatio"/>
           <Option type="QString" value="1" name="horizontal_anchor_point"/>
-          <Option type="QString" value="P:/GIT/segnaletica_stradale_ita/collections/segnaletica_stradale/divieto_fermata.svg" name="name"/>
           <Option type="QString" value="0,0" name="offset"/>
           <Option type="QString" value="3x:0,0,0,0,0,0" name="offset_map_unit_scale"/>
           <Option type="QString" value="MM" name="offset_unit"/>
@@ -1378,7 +1331,6 @@
         <prop k="color" v="255,0,0,255"/>
         <prop k="fixedAspectRatio" v="0"/>
         <prop k="horizontal_anchor_point" v="1"/>
-        <prop k="name" v="P:/GIT/segnaletica_stradale_ita/collections/segnaletica_stradale/divieto_fermata.svg"/>
         <prop k="offset" v="0,0"/>
         <prop k="offset_map_unit_scale" v="3x:0,0,0,0,0,0"/>
         <prop k="offset_unit" v="MM"/>
@@ -1415,7 +1367,6 @@
           <Option type="QString" value="255,0,0,255" name="color"/>
           <Option type="QString" value="0" name="fixedAspectRatio"/>
           <Option type="QString" value="1" name="horizontal_anchor_point"/>
-          <Option type="QString" value="P:/GIT/segnaletica_stradale_ita/collections/segnaletica_stradale/divieto_segnalazioni_acustiche.svg" name="name"/>
           <Option type="QString" value="0,0" name="offset"/>
           <Option type="QString" value="3x:0,0,0,0,0,0" name="offset_map_unit_scale"/>
           <Option type="QString" value="MM" name="offset_unit"/>
@@ -1434,7 +1385,6 @@
         <prop k="color" v="255,0,0,255"/>
         <prop k="fixedAspectRatio" v="0"/>
         <prop k="horizontal_anchor_point" v="1"/>
-        <prop k="name" v="P:/GIT/segnaletica_stradale_ita/collections/segnaletica_stradale/divieto_segnalazioni_acustiche.svg"/>
         <prop k="offset" v="0,0"/>
         <prop k="offset_map_unit_scale" v="3x:0,0,0,0,0,0"/>
         <prop k="offset_unit" v="MM"/>
@@ -1471,7 +1421,6 @@
           <Option type="QString" value="255,0,0,255" name="color"/>
           <Option type="QString" value="0" name="fixedAspectRatio"/>
           <Option type="QString" value="1" name="horizontal_anchor_point"/>
-          <Option type="QString" value="P:/GIT/segnaletica_stradale_ita/collections/segnaletica_stradale/divieto_sorpasso.svg" name="name"/>
           <Option type="QString" value="0,0" name="offset"/>
           <Option type="QString" value="3x:0,0,0,0,0,0" name="offset_map_unit_scale"/>
           <Option type="QString" value="MM" name="offset_unit"/>
@@ -1490,7 +1439,6 @@
         <prop k="color" v="255,0,0,255"/>
         <prop k="fixedAspectRatio" v="0"/>
         <prop k="horizontal_anchor_point" v="1"/>
-        <prop k="name" v="P:/GIT/segnaletica_stradale_ita/collections/segnaletica_stradale/divieto_sorpasso.svg"/>
         <prop k="offset" v="0,0"/>
         <prop k="offset_map_unit_scale" v="3x:0,0,0,0,0,0"/>
         <prop k="offset_unit" v="MM"/>
